@@ -1,0 +1,47 @@
+procoagulant: 
+- KNG1 # LMWK, HMWK 
+- KLKB1 # prekallikrein
+- F2 # prothrombin
+- F2R # PAR-1
+- F3 # TF
+- F5
+- F7
+- F8
+- F9
+- F10
+- F11
+- F12
+- F13A1
+- F13B
+- VWF
+- FGA # fibrinogen
+- FGB # fibrinogen
+- FGG # fibrinogen
+
+anticoagulant: 
+- PROC # protein c
+- PROS1 # protein s
+- PROZ # protein z
+- THBD # thrombomodulin
+- TFPI # tissue factor pathway inhibitor
+- SERPINC1 # antithrombin, AT
+- SERPIND1 # heparin cofactor 2
+- SERPINA5 # alpha-1 proteinase inhibitor (but there are other SERPINAs with same name)
+- A2M # alpha 2 macroglobulin
+- PROCR # EPCR
+
+fibrinolytic: 
+- PLG # plasminogen, induces fibrinolysis
+- PLAT # t-PA, activator of PLG
+- PLAU # u-PA, activator of PLG
+- PLAUR # u-PAR
+- CPB2 # TAFI, Thrombin-activable fibrinolysis inhibitor
+- HABP2 # FSAP
+- SERPINE1 # PAI-1, main inhibitor of PLAT and PLAU
+- SERPINB2 # PAI-2, only secreted by placenta
+- SERPINF1 # alpha-antiplasmin
+- SERPINF2 # alpha-antiplasmin
+
+other:
+- FGL1
+- FGL2

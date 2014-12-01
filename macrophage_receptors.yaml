@@ -1,0 +1,206 @@
+# http://www.annualreviews.org.ezproxy.bu.edu/doi/pdf/10.1146/annurev.immunol.23.021704.115816
+# MACROPHAGE RECEPTORS AND IMMUNE RECOGNITION
+# P.R. Taylor and colleagues
+# Annu. Rev. Immunol. 2005. 23:901–44
+# doi: 10.1146/annurev.immunol.23.021704.115816
+
+"scavenger receptors":
+    - CD163 # M130|MM130  CD163 molecule  protein-coding  CD163   CD163 molecule  hemoglobin scavenger receptor|macrophage-a
+    - CD163L1 # CD163B|M160 CD163 molecule-like 1   protein-coding  CD163L1 CD163 molecule-like 1   CD163 antigen B|CD163 a
+    - CD36 # BDPLT10|CHDS7|FAT|GP3B|GP4|GPIV|PASIV|SCARB3    CD36 molecule (thrombospondin receptor) protein-coding  CD36
+    - CD5L # AIM|API6|PRO229|SP-ALPHA|Spalpha    CD5 molecule-like   protein-coding  CD5L    CD5 molecule-like   CD5 antigen-like
+    - CD68 # GP110|LAMP4|SCARD1  CD68 molecule   protein-coding  CD68    CD68 molecule   CD68 antigen|macrophage antigen CD68|m
+    - COLEC12 # CLP1|NSR2|SCARA4|SRCL   collectin sub-family member 12  protein-coding  COLEC12 collectin sub-family membe
+    - CXCL16 # CXCLG16|SR-PSOX|SRPSOX  chemokine (C-X-C motif) ligand 16   protein-coding  CXCL16  chemokine (C-X-C motif)
+    - LOC100420955 # -   scavenger receptor class B, member 1 pseudogene pseudo  -   -   -
+    - MARCO # SCARA2  macrophage receptor with collagenous structure  protein-coding  MARCO   macrophage receptor with coll
+    - MSR1 # CD204|SCARA1|SR-A|SRA|phSR1|phSR2   macrophage scavenger receptor 1 protein-coding  MSR1    macrophage scavenge
+    - OLR1 # CLEC8A|LOX1|LOXIN|SCARE1|SLOX1  oxidized low density lipoprotein (lectin-like) receptor 1   protein-coding  O
+    - SCARA3 # APC7|CSR|CSR1|MSLR1|MSRL1   scavenger receptor class A, member 3    protein-coding  SCARA3  scavenger receptor
+    - SCARA5 # NET33|Tesr  scavenger receptor class A, member 5    protein-coding  SCARA5  scavenger receptor class A, membe
+    - SCARB1 # CD36L1|CLA-1|CLA1|HDLQTL6|SR-BI|SRB1    scavenger receptor class B, member 1    protein-coding  SCARB1  scaveng
+    - SCARB2 # AMRF|CD36L2|EPM4|HLGP85|LGP85|LIMP-2|LIMPII|SR-BII  scavenger receptor class B, member 2    protein-coding
+    - SCARF1 # SREC|SREC-I|SREC1   scavenger receptor class F, member 1    protein-coding  SCARF1  scavenger receptor class F
+    - SCARF2 # NSR1|SREC-II|SREC2|SRECRP-1|VDEGS   scavenger receptor class F, member 2    protein-coding  SCARF2  scavenger
+    - SCART1 # -   scavenger receptor protein family member    pseudo  -   -   -
+    - SSC4D # S4D-SRCRB|SRCRB-S4D|SRCRB4D scavenger receptor cysteine rich family, 4 domains  protein-coding  SSC4D   scav
+    - SSC5D # -   scavenger receptor cysteine rich family, 5 domains  protein-coding  SSC5D   scavenger receptor cysteine ri
+
+    - STAB1 # CLEVER-1|FEEL-1|FELE-1|FEX1|STAB-1  stabilin 1  protein-coding  STAB1   stabilin 1  MS-1 antigen|common lympha
+    - STAB2 # FEEL2|FELE-2|FELL2|FEX2|HARE    stabilin 2  protein-coding  STAB2   stabilin 2  CD44-like precursor FELL|FAS1 EG
+
+Integrins:
+    - ITFG1 #   TIP integrin alpha FG-GAP repeat containing 1   protein-coding  ITFG1   integrin alpha FG-GAP repeat containi
+    - ITFG2 #   MDS028  integrin alpha FG-GAP repeat containing 2   protein-coding  ITFG2   integrin alpha FG-GAP repeat conta
+    - ITFG3 #   C16orf9|gs19    integrin alpha FG-GAP repeat containing 3   protein-coding  ITFG3   integrin alpha FG-GAP repeat
+    - ITGA1 #   CD49a|VLA1  integrin, alpha 1   protein-coding  ITGA1   integrin, alpha 1   CD49 antigen-like family member A|VL
+    - ITGA10 #  PRO827  integrin, alpha 10  protein-coding  ITGA10  integrin, alpha 10  integrin alpha-10
+    - ITGA11 #  HsT18964    integrin, alpha 11  protein-coding  ITGA11  integrin, alpha 11  integrin alpha-11
+    - ITGA2 #   BR|CD49B|GPIa|HPA-5|VLA-2|VLAA2 integrin, alpha 2 (CD49B, alpha 2 subunit of VLA-2 receptor)    protein-cod
+    - ITGA2B #  BDPLT16|BDPLT2|CD41|CD41B|GP2B|GPIIb|GT|GTA|HPA3|PPP1R93    integrin, alpha 2b (platelet glycoprotein IIb
+    - ITGA3 #   CD49C|GAP-B3|GAPB3|ILNEB|MSK18|VCA-2|VL3A|VLA3a integrin, alpha 3 (antigen CD49C, alpha 3 subunit of VLA
+    - ITGA4 #   CD49D|IA4   integrin, alpha 4 (antigen CD49D, alpha 4 subunit of VLA-4 receptor)    protein-coding  ITGA4   inte
+    - ITGA5 #   CD49e|FNRA|VLA5A    integrin, alpha 5 (fibronectin receptor, alpha polypeptide) protein-coding  ITGA5   integr
+    - ITGA6 #   CD49f|ITGA6B|VLA-6  integrin, alpha 6   protein-coding  ITGA6   integrin, alpha 6   CD49 antigen-like family mem
+    - ITGA7 #   -   integrin, alpha 7   protein-coding  ITGA7   integrin, alpha 7   integrin alpha 7 chain|integrin alpha-7
+    - ITGA8 #   -   integrin, alpha 8   protein-coding  ITGA8   integrin, alpha 8   integrin alpha-8
+    - ITGA9 #   ALPHA-RLC|ITGA4L|RLC    integrin, alpha 9   protein-coding  ITGA9   integrin, alpha 9   integrin alpha-9|integrin
+    - ITGAD #   ADB2|CD11D  integrin, alpha D   protein-coding  ITGAD   integrin, alpha D   CD11 antigen-like family member D|in
+    - ITGAE #   CD103|HUMINAE   integrin, alpha E (antigen CD103, human mucosal lymphocyte antigen 1; alpha polypeptide)    p
+    - ITGAL #   CD11A|LFA-1|LFA1A   integrin, alpha L (antigen CD11A (p180), lymphocyte function-associated antigen 1; alp
+    - ITGAM #   CD11B|CR3A|MAC-1|MAC1A|MO1A|SLEB6   integrin, alpha M (complement component 3 receptor 3 subunit)   protein-
+    - ITGAV #   CD51|MSK8|VNRA|VTNR integrin, alpha V   protein-coding  ITGAV   integrin, alpha V   antigen identified by monoc
+    - ITGAW #   -   integrin, alpha W   protein-coding  ITGAW   integrin, alpha W   -
+    - ITGAX #   CD11C|SLEB6 integrin, alpha X (complement component 3 receptor 4 subunit)   protein-coding  ITGAX   integrin,
+    - ITGB1 #   CD29|FNRB|GPIIA|MDF2|MSK12|VLA-BETA|VLAB    integrin, beta 1 (fibronectin receptor, beta polypeptide, antig
+    - ITGB1BP1 #    ICAP-1A|ICAP-1B|ICAP-1alpha|ICAP1|ICAP1A|ICAP1B integrin beta 1 binding protein 1   protein-coding  ITGB
+    - ITGB1BP2 #    CHORDC3|ITGB1BP|MELUSIN integrin beta 1 binding protein (melusin) 2 protein-coding  ITGB1BP2    integrin
+    - ITGB1P1 # FNRBL|ITGB1L    integrin beta 1 pseudogene 1    pseudo  ITGB1P1 integrin beta 1 pseudogene 1    -
+    - ITGB2 #   CD18|LAD|LCAMB|LFA-1|MAC-1|MF17|MFI7    integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)
+    - ITGB3 #   BDPLT16|BDPLT2|CD61|GP3A|GPIIIa|GT  integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61) protein-c
+    - ITGB3BP # CENP-R|CENPR|HSU37139|NRIF3|TAP20   integrin beta 3 binding protein (beta3-endonexin)   protein-coding  ITG
+    - ITGB4 #   CD104   integrin, beta 4    protein-coding  ITGB4   integrin, beta 4    CD104 antigen|GP150|integrin beta-4|integri
+    - ITGB5 #   -   integrin, beta 5    protein-coding  ITGB5   integrin, beta 5    integrin beta-5
+    - ITGB6 #   -   integrin, beta 6    protein-coding  ITGB6   integrin, beta 6    integrin beta-6
+    - ITGB7 #   -   integrin, beta 7    protein-coding  ITGB7   integrin, beta 7    gut homing receptor beta subunit|integrin beta
+    - ITGB8 #   -   integrin, beta 8    protein-coding  ITGB8   integrin, beta 8    integrin beta-8
+    - ITGBL1 #  OSCP|TIED   integrin, beta-like 1 (with EGF-like repeat domains)    protein-coding  ITGBL1  integrin, beta-lik    
+    - ITGAV   CD51|MSK8|VNRA|VTNR integrin, alpha V   protein-coding  ITGAV   integrin, alpha V   antigen identified by monoc
+    - LOC100422479 # -   integrin, alpha X (complement component 3 receptor 4 subunit) pseudogene    pseudo  -   -   -
+
+"Ig superfamily":
+    - LILRA5 # CD85|CD85F|ILT-11|ILT11|LILRB7|LIR-9|LIR9   leukocyte immunoglobulin-like receptor, subfamily A (with TM
+    - LILRA6 # CD85b|ILT-8|ILT5|ILT8|LILRB3|LILRB6 leukocyte immunoglobulin-like receptor, subfamily A (with TM domain
+    - LILRB1 # CD85J|ILT-2|ILT2|LIR-1|LIR1|MIR-7|MIR7  leukocyte immunoglobulin-like receptor, subfamily B (with TM and
+    - LILRB2 # CD85D|ILT-4|ILT4|LIR-2|LIR2|MIR-10|MIR10    leukocyte immunoglobulin-like receptor, subfamily B (with TM a
+    - LILRB3 # CD85A|HL9|ILT-5|ILT5|LILRA6|LIR-3|LIR3|PIRB leukocyte immunoglobulin-like receptor, subfamily B (with T
+    - LILRB4 # CD85K|ILT-3|ILT3|LIR-5|LIR5 leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domai
+    - LILRB5 # CD85C|LIR-8|LIR8    leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member
+    - TIGIT #  VSIG9|VSTM3|WUCAM   T cell immunoreceptor with Ig and ITIM domains  protein-coding  TIGIT   T cell immunorecep
+    - FCAMR #  CD351|FCA/MR    Fc receptor, IgA, IgM, high affinity    protein-coding  FCAMR   Fc receptor, IgA, IgM, high affin
+    - FCAR #   CD89    Fc fragment of IgA, receptor for    protein-coding  FCAR    Fc fragment of IgA, receptor for    Fc alpha recep
+    - FCER1A # FCE1A|FcERI Fc fragment of IgE, high affinity I, receptor for; alpha polypeptide    protein-coding  FCER1A
+    - FCER1G # FCRG    Fc fragment of IgE, high affinity I, receptor for; gamma polypeptide    protein-coding  FCER1G  Fc frag
+    - FCER2 #  BLAST-2|CD23|CD23A|CLEC4J|FCE2|IGEBF    Fc fragment of IgE, low affinity II, receptor for (CD23)    protein-co
+    - FCGR1A # CD64|CD64A|FCRI|IGFR1   Fc fragment of IgG, high affinity Ia, receptor (CD64)   protein-coding  FCGR1A  Fc fr
+    - FCGR1B # CD64b|IGFRB Fc fragment of IgG, high affinity Ib, receptor (CD64)   protein-coding  FCGR1B  Fc fragment of
+    - FCGR1C # CD64c|FCRIC|IGFR1|IGFRC Fc fragment of IgG, high affinity Ic, receptor (CD64), pseudogene   pseudo  FCGR1C
+    - FCGR2A # CD32|CD32A|CDw32|FCG2|FCGR2|FCGR2A1|FcGR|IGFR2  Fc fragment of IgG, low affinity IIa, receptor (CD32)   pr
+    - FCGR2B # CD32|CD32B|FCG2|FCGR2|IGFR2 Fc fragment of IgG, low affinity IIb, receptor (CD32)   protein-coding  FCGR2B
+    - FCGR2C # CD32|CD32C|CDW32|FCG2|FCRIIC|IGFR2  Fc fragment of IgG, low affinity IIc, receptor for (CD32) (gene/pseu
+    - FCGR3B # CD16|CD16b|FCG3|FCGR3|FCR-10|FCRIII|FCRIIIb Fc fragment of IgG, low affinity IIIb, receptor (CD16b) pro
+    - FCGRT #  FCRN|alpha-chain    Fc fragment of IgG, receptor, transporter, alpha    protein-coding  FCGRT   Fc fragment of Ig
+    - FCRL1 #  CD307a|FCRH1|IFGP1|IRTA5    Fc receptor-like 1  protein-coding  FCRL1   Fc receptor-like 1  Fc receptor-like pro
+    - FCRL2 #  CD307b|FCRH2|IFGP4|IRTA4|SPAP1|SPAP1A|SPAP1B|SPAP1C Fc receptor-like 2  protein-coding  FCRL2   Fc receptor-
+    - FCRL3 #  CD307c|FCRH3|IFGP3|IRTA3|SPAP2  Fc receptor-like 3  protein-coding  FCRL3   Fc receptor-like 3  Fc receptor ho
+    - FCRL4 #  CD307d|FCRH4|IGFP2|IRTA1    Fc receptor-like 4  protein-coding  FCRL4   Fc receptor-like 4  Fc receptor-like pro
+    - FCRL5 #  BXMAS1|CD307|CD307e|FCRH5|IRTA2|PRO820  Fc receptor-like 5  protein-coding  FCRL5   Fc receptor-like 5  Fc rec
+    - FCRL6 #  FcRH6   Fc receptor-like 6  protein-coding  FCRL6   Fc receptor-like 6  Fc receptor-like protein 6|Fc receptor-
+    - FCRL6P1 #-   Fc receptor-like 6 pseudogene 1 pseudo  FCRL6P1 Fc receptor-like 6 pseudogene 1 -
+    - FCRLA #  FCRL|FCRL1|FCRLM1|FCRLX|FCRLb|FCRLc1|FCRLc2|FCRLd|FCRLe|FCRX|FREB   Fc receptor-like A  protein-coding  FCRL
+    - FCRLB #  FCRL2|FCRLM2|FCRLY|FREB-2|FcRY  Fc receptor-like B  protein-coding  FCRLB   Fc receptor-like B  fc receptor ho
+    - LOC100996284 #   -   Fc receptor-like protein 2-like pseudo  -   -   -
+    - LOC101060789 #   -   low affinity immunoglobulin gamma Fc region receptor III-A-like protein-coding  -   -   -
+    - TREM1 # CD354|TREM-1    triggering receptor expressed on myeloid cells 1    protein-coding  TREM1   triggering receptor e
+    - CD200R1   #CD200R|HCRTR2|MOX2R|OX2R    CD200 receptor 1    protein-coding  CD200R1 CD200 receptor 1    CD200 cell surface g
+    - SIRPA # BIT|CD172A|MFR|MYD-1|P84|PTPNS1|SHPS1|SIRP  signal-regulatory protein alpha protein-coding  SIRPA   signal-r
+    - CSF1R #   C-FMS|CD115|CSF-1R|CSFR|FIM2|FMS|HDLS|M-CSF-R   colony stimulating factor 1 receptor    protein-coding  CSF1R
+    - CSF2RB #  CD131|CDw131|IL3RB|IL5RB|SMDP5  colony stimulating factor 2 receptor, beta, low-affinity (granulocyte-ma
+    - CSF2RBP1 #    CSF2RB2|fF45C1.2    colony stimulating factor 2 receptor, beta, low-affinity (granulocyte-macrophage) ps
+    - CSF3R #   CD114|GCSFR colony stimulating factor 3 receptor (granulocyte)  protein-coding  CSF3R   colony stimulating f
+    - SIGLEC1 # Sialoadhesin, CD169
+    - CD33 #   SIGLEC-3|SIGLEC3|p67    CD33 molecule   protein-coding  CD33    CD33 molecule   CD33 antigen (gp67)|gp67|myeloid cel
+
+"seven transmembrane":
+    - C3AR1 # AZ3B|C3AR|HNFAG09   complement component 3a receptor 1  protein-coding  C3AR1   complement component 3a recept
+    - C5AR1 # C5A|C5AR|C5R1|CD88  complement component 5a receptor 1  protein-coding  C5AR1   complement component 5a recep
+    - C5AR2 # C5L2|GPF77|GPR77    complement component 5a receptor 2  protein-coding  C5AR2   complement component 5a recepto
+    - CR1 # C3BR|C4BR|CD35|KN   complement component (3b/4b) receptor 1 (Knops blood group) protein-coding  CR1 complemen
+    - CR1L # -   complement component (3b/4b) receptor 1-like    protein-coding  CR1L    complement component (3b/4b) receptor
+    - CR2 # C3DR|CD21|CR|CVID7|SLEB9    complement component (3d/Epstein Barr virus) receptor 2 protein-coding  CR2 comple
+    - LOC100422434 # -   complement component (3b/4b) receptor 1 (Knops blood group) pseudogene  pseudo  -   -   -
+    - EMR2 #    CD312   egf-like module containing, mucin-like, hormone receptor-like 2 protein-coding  EMR2    egf-like module
+    - EMR1 # TM7LN3  egf-like module containing, mucin-like, hormone receptor-like 1 protein-coding  EMR1    egf-like modul
+    - EMR2 # CD312   egf-like module containing, mucin-like, hormone receptor-like 2 protein-coding  EMR2    egf-like module
+    - EMR3 # -   egf-like module containing, mucin-like, hormone receptor-like 3 protein-coding  EMR3    egf-like module con
+    - EMR4P # EMR4|FIRE|GPR127|PGR16  egf-like module containing, mucin-like, hormone receptor-like 4 pseudogene  pseudo
+    - ACKR2 # CCBP2|CCR10|CCR9|CMKBR9|D6|hD6  atypical chemokine receptor 2   protein-coding  ACKR2   atypical chemokine rec
+    - ACKR4 # CC-CKR-11|CCBP2|CCR-11|CCR10|CCR11|CCRL1|CCX CKR|CCX-CKR|CKR-11|PPR1|VSHK1  atypical chemokine receptor 4
+    - CCR1 # CD191|CKR-1|CKR1|CMKBR1|HM145|MIP1aR|SCYAR1 chemokine (C-C motif) receptor 1    protein-coding  CCR1    chemokin
+    - CCR10 # GPR2    chemokine (C-C motif) receptor 10   protein-coding  CCR10   chemokine (C-C motif) receptor 10   C-C CKR-10
+    - CCR12P # GPR183P1    chemokine (C-C motif) receptor 12, pseudogene   pseudo  CCR12P  chemokine (C-C motif) receptor 12,
+    - CCR2 # CC-CKR-2|CCR-2|CCR2A|CCR2B|CD192|CKR2|CKR2A|CKR2B|CMKBR2|MCP-1-R    chemokine (C-C motif) receptor 2    protein
+    - CCR3 # CC-CKR-3|CD193|CKR3|CMKBR3  chemokine (C-C motif) receptor 3    protein-coding  CCR3    chemokine (C-C motif) rec
+    - CCR4 # CC-CKR-4|CD194|CKR4|CMKBR4|ChemR13|HGCN:14099|K5-5  chemokine (C-C motif) receptor 4    protein-coding  CCR4    c
+    - CCR5 # CC-CKR-5|CCCKR5|CCR-5|CD195|CKR-5|CKR5|CMKBR5|IDDM22    chemokine (C-C motif) receptor 5 (gene/pseudogene)  p
+    - CCR7 # BLR2|CC-CKR-7|CCR-7|CD197|CDw197|CMKBR7|EBI1    chemokine (C-C motif) receptor 7    protein-coding  CCR7    chemoki
+    - CCR8 # CC-CKR-8|CCR-8|CDw198|CKRL1|CMKBR8|CMKBRL2|CY6|GPRCY6|TER1  chemokine (C-C motif) receptor 8    protein-codin
+    - CCR9 # CC-CKR-9|CDw199|GPR-9-6|GPR28   chemokine (C-C motif) receptor 9    protein-coding  CCR9    chemokine (C-C motif)
+    - CCRL1P1 # CCRL1P|dJ509I19.4   chemokine (C-C motif) receptor-like 1 pseudogene    pseudo  CCRL1P1 chemokine (C-C motif
+    - CCRL2 # ACKR5|CKRX|CRAM|CRAM-A|CRAM-B|HCR   chemokine (C-C motif) receptor-like 2   protein-coding  CCRL2   chemokine (
+    - CX3CR1 # CCRL1|CMKBRL1|CMKDR1|GPR13|GPRV28|V28   chemokine (C-X3-C motif) receptor 1 protein-coding  CX3CR1  chemoki
+    - IL27RA # CRL1|IL-27RA|IL27R|TCCR|WSX1|zcytor1    interleukin 27 receptor, alpha  protein-coding  IL27RA  interleukin 2
+    - NCCRP1 # FBXO50|NCCRP-1  non-specific cytotoxic cell receptor protein 1 homolog (zebrafish)  protein-coding  NCCRP1
+    - NR3C1 # GCCR|GCR|GCRST|GR|GRL   nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)   protein-
+
+"lectin":
+    - CD209 # CDSIGN|CLEC4L|DC-SIGN|DC-SIGN1  CD209 molecule  protein-coding  CD209   CD209 molecule  C-type lectin domain f
+    - CD302 # BIMLEC|CLEC13A|DCL-1|DCL1   CD302 molecule  protein-coding  CD302   CD302 molecule  C-type lectin domain family
+    - CD69 # AIM|BL-AC/P26|CLEC2C|EA1|GP32/28|MLR-3  CD69 molecule   protein-coding  CD69    CD69 molecule   C-type lectin doma
+    - CLEC10A # CD301|CLECSF13|CLECSF14|HML|HML2|MGL    C-type lectin domain family 10, member A    protein-coding  CLEC10A C
+    - CLEC11A # CLECSF3|LSLCL|P47|SCGF  C-type lectin domain family 11, member A    protein-coding  CLEC11A C-type lectin d
+    - CLEC12A # CLL-1|CLL1|DCAL-2|MICL  C-type lectin domain family 12, member A    protein-coding  CLEC12A C-type lectin d
+    - CLEC12B # UNQ5782 C-type lectin domain family 12, member B    protein-coding  CLEC12B C-type lectin domain family 12
+    - CLEC14A # C14orf27|CEG1|EGFR-5    C-type lectin domain family 14, member A    protein-coding  CLEC14A C-type lectin dom
+    - CLEC16A # Gop-1|KIAA0350  C-type lectin domain family 16, member A    protein-coding  CLEC16A C-type lectin domain fa
+    - CLEC17A # -   C-type lectin domain family 17, member A    protein-coding  CLEC17A C-type lectin domain family 17, memb
+    - CLEC18A # MRCL|MRCL1|MRLP2    C-type lectin domain family 18, member A    protein-coding  CLEC18A C-type lectin domain
+    - CLEC18B # MRCL2   C-type lectin domain family 18, member B    protein-coding  CLEC18B C-type lectin domain family 18,
+    - CLEC18C # MRCL|MRCL3  C-type lectin domain family 18, member C    protein-coding  CLEC18C C-type lectin domain family
+    - CLEC19A # -   C-type lectin domain family 19, member A    protein-coding  CLEC19A C-type lectin domain family 19, memb
+    - CLEC1A # CLEC-1|CLEC1    C-type lectin domain family 1, member A protein-coding  CLEC1A  C-type lectin domain family
+    - CLEC1B # 1810061I13Rik|CLEC2|CLEC2B|PRO1384|QDED721  C-type lectin domain family 1, member B protein-coding  CLEC1
+    - CLEC2A # INPE5792|KACL|PILAR|UNQ5792 C-type lectin domain family 2, member A protein-coding  CLEC2A  C-type lectin
+    - CLEC2B # AICL|CLECSF2|HP10085|IFNRG1 C-type lectin domain family 2, member B protein-coding  CLEC2B  C-type lectin
+    - CLEC2D # CLAX|LLT1|OCIL  C-type lectin domain family 2, member D protein-coding  CLEC2D  C-type lectin domain famil
+    - CLEC2L # -   C-type lectin domain family 2, member L protein-coding  CLEC2L  C-type lectin domain family 2, member L
+    - CLEC3A # CLECSF1 C-type lectin domain family 3, member A protein-coding  CLEC3A  C-type lectin domain family 3, me
+    - CLEC3B # TN|TNA  C-type lectin domain family 3, member B protein-coding  CLEC3B  C-type lectin domain family 3, mem
+    - CLEC4A # CLECSF6|DCIR|DDB27|LLIR C-type lectin domain family 4, member A protein-coding  CLEC4A  C-type lectin dom
+    - CLEC4C # BDCA2|CD303|CLECSF11|CLECSF7|DLEC|HECL|PRO34150 C-type lectin domain family 4, member C protein-coding
+    - CLEC4D # CLEC-6|CLEC6|CLECSF8|MCL|MPCL   C-type lectin domain family 4, member D protein-coding  CLEC4D  C-type lect
+    - CLEC4E # CLECSF9|MINCLE  C-type lectin domain family 4, member E protein-coding  CLEC4E  C-type lectin domain famil
+    - CLEC4F # CLECSF13|KCLR   C-type lectin domain family 4, member F protein-coding  CLEC4F  C-type lectin domain family
+    - CLEC4G # DTTR431|LP2698|LSECtin|UNQ431   C-type lectin domain family 4, member G protein-coding  CLEC4G  C-type lect
+    - CLEC4GP1 # -   C-type lectin domain family 4, member G pseudogene 1    pseudo  CLEC4GP1    C-type lectin domain family 4,
+    - CLEC4M # CD209L|CD299|DC-SIGN2|DC-SIGNR|DCSIGNR|HP10347|L-SIGN|LSIGN C-type lectin domain family 4, member M pro
+    - CLEC5A # CLECSF5|MDL-1|MDL1  C-type lectin domain family 5, member A protein-coding  CLEC5A  C-type lectin domain f
+    - CLEC6A # CLEC4N|CLECSF10 C-type lectin domain family 6, member A protein-coding  CLEC6A  C-type lectin domain fami
+    - CLEC7A # BGR|CANDF4|CLECSF12|DECTIN1 C-type lectin domain family 7, member A protein-coding  CLEC7A  C-type lectin
+    - CLEC9A # DNGR1|UNQ9341   C-type lectin domain family 9, member A protein-coding  CLEC9A  C-type lectin domain family
+    - CLECL1 # DCAL-1|DCAL1    C-type lectin-like 1    protein-coding  CLECL1  C-type lectin-like 1    C-type lectin-like domain
+    - MRC1 #    CD206|CLEC13D|CLEC13DL|MMR|MRC1L1|bA541I19.1    mannose receptor, C type 1  protein-coding  MRC1    mannose recep
+    - MRC2 #    CD280|CLEC13E|ENDO180|UPARAP    mannose receptor, C type 2  protein-coding  MRC2    mannose receptor, C type 2  C-
+    - KLRAP1 # KLRA#|KLRA1|LY49L|Ly-49L|Ly49   killer cell lectin-like receptor subfamily A pseudogene 1   pseudo  KLRAP1  k
+    - KLRB1 # CD161|CLEC5B|NKR|NKR-P1|NKR-P1A|NKRP1A|hNKR-P1A killer cell lectin-like receptor subfamily B, member 1  p
+    - KLRC1 # CD159A|NKG2|NKG2A   killer cell lectin-like receptor subfamily C, member 1  protein-coding  KLRC1   killer cel
+    - KLRC2 # CD159c|NKG2-C|NKG2C killer cell lectin-like receptor subfamily C, member 2  protein-coding  KLRC2   killer c
+    - KLRC3 # NKG2-E|NKG2E    killer cell lectin-like receptor subfamily C, member 3  protein-coding  KLRC3   killer cell lec
+    - KLRC4 # NKG2-F|NKG2F    killer cell lectin-like receptor subfamily C, member 4  protein-coding  KLRC4   killer cell lec
+    - KLRD1 # CD94    killer cell lectin-like receptor subfamily D, member 1  protein-coding  KLRD1   killer cell lectin-like
+    - KLRF1 # CLEC5C|NKp80    killer cell lectin-like receptor subfamily F, member 1  protein-coding  KLRF1   killer cell lec
+    - KLRF2 # NKp65   killer cell lectin-like receptor subfamily F, member 2  protein-coding  KLRF2   killer cell lectin-lik
+    - KLRG1 # 2F1|CLEC15A|MAFA|MAFA-2F1|MAFA-L|MAFA-LIKE  killer cell lectin-like receptor subfamily G, member 1  protei
+    - KLRG2 # CLEC15B killer cell lectin-like receptor subfamily G, member 2  protein-coding  KLRG2   killer cell lectin-l
+    - KLRK1 # CD314|D12S2489E|KLR|NKG2-D|NKG2D    killer cell lectin-like receptor subfamily K, member 1  protein-coding  K    
+
+"GPI anchored":
+    - CD14
+    - CD55  # CR|CROM|DAF|TC  CD55 molecule, decay accelerating factor for complement (Cromer blood group)    protein-codin
+
+other:
+    - OLR1
+    - NR3C2
+    - TLR2
+    - TLR4
+    
