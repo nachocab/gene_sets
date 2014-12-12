@@ -1,0 +1,230 @@
+"heat shock proteins":
+    "small family":
+        - HSPE1   CPN10|EPF|GROES|HSP10   heat shock 10kDa protein 1  protein-coding  HSPE1   heat shock 10kDa protein 1  10 kDa 
+        - HSPE1-MOB4  HSPE1-PHOCN HSPE1-MOB4 readthrough  protein-coding  HSPE1-MOB4  HSPE1-MOB4 readthrough  HSPE1-MOB4 prot
+        - HSPE1P1 HSPEP1|bA101E14.1   heat shock 10kDa protein 1 pseudogene 1 pseudo  HSPE1P1 heat shock 10kDa protein 1 ps
+        - HSPE1P2 HSPEP2  heat shock 10kDa protein 1 pseudogene 2 pseudo  HSPE1P2 heat shock 10kDa protein 1 pseudogene 2 
+        - HSPE1P3 -   heat shock 10kDa protein 1 pseudogene 3 pseudo  HSPE1P3 heat shock 10kDa protein 1 pseudogene 3 -
+        - HSPE1P4 -   heat shock 10kDa protein 1 pseudogene 4 pseudo  HSPE1P4 heat shock 10kDa protein 1 pseudogene 4 -
+        - HSPE1P5 -   heat shock 10kDa protein 1 pseudogene 5 pseudo  HSPE1P5 heat shock 10kDa protein 1 pseudogene 5 -
+        - HSPE1P7 -   heat shock 10kDa protein 1 pseudogene 7 pseudo  HSPE1P7 heat shock 10kDa protein 1 pseudogene 7 -
+        - HSPE1P8 -   heat shock 10kDa protein 1 pseudogene 8 pseudo  HSPE1P8 heat shock 10kDa protein 1 pseudogene 8 -
+        - HSPE1P10    -   heat shock 10kDa protein 1 pseudogene 10    pseudo  HSPE1P10    heat shock 10kDa protein 1 pseudogene 10    -
+        - HSPE1P12    -   heat shock 10kDa protein 1 pseudogene 12    pseudo  HSPE1P12    heat shock 10kDa protein 1 pseudogene 12    -
+        - HSPE1P16    EPF8    heat shock 10kDa protein 1 pseudogene 16    pseudo  HSPE1P16    heat shock 10kDa protein 1 pseudogene 1
+        - HSPE1P20    -   heat shock 10kDa protein 1 pseudogene 20    pseudo  HSPE1P20    heat shock 10kDa protein 1 pseudogene 20    -
+        - HSPE1P22    -   heat shock 10kDa protein 1 pseudogene 22    pseudo  HSPE1P22    heat shock 10kDa protein 1 pseudogene 22    -
+        - HSPE1P28    EPF5    heat shock 10kDa protein 1 pseudogene 28    pseudo  HSPE1P28    heat shock 10kDa protein 1 pseudogene 2
+        - CRYAA # crystallin alpha
+        - CRYAB # crystallin alpha
+        - HSPB6   HEL55|Hsp20|PPP1R91 heat shock protein, alpha-crystallin-related, B6    protein-coding  HSPB6   heat shock pro
+        - HSPB1   # CMT2F|HEL-S-102|HMN2B|HS.76067|HSP27|HSP28|Hsp25|SRP27  heat shock 27kDa protein 1  protein-coding  HSPB1   h
+        - HSPB1P1 # HSPBL2  heat shock 27kDa protein 1 pseudogene 1 pseudo  HSPB1P1 heat shock 27kDa protein 1 pseudogene 1 
+        - HSPB1P2 # HSPBL3  heat shock 27kDa protein 1 pseudogene 2 pseudo  HSPB1P2 heat shock 27kDa protein 1 pseudogene 2 
+        - HSPB2   # HSP27|Hs.78846|LOH11CR1K|MKBP   heat shock 27kDa protein 2  protein-coding  HSPB2   heat shock 27kDa protein 2
+        - HSPB2-C11orf52  #   HSPB2-C11orf52 readthrough (NMD candidate)  ncRNA   HSPB2-C11orf52  HSPB2-C11orf52 readthrough (N
+
+    "hsp40 family":
+        - DNAJB1 #  HSPF1|Hdj1|Hsp40|RSPH16B|Sis1   DnaJ (Hsp40) homolog, subfamily B, member 1 protein-coding  DNAJB1  DnaJ (H
+        - DNAJB1P1 #    DNAJB1P|HSP40|psiHSP40  DnaJ (Hsp40) homolog, subfamily B, member 1 pseudogene 1    pseudo  DNAJB1P1    DnaJ 
+        - DNAJA1 #  DJ-2|DjA1|HDJ2|HSDJ|HSJ2|HSPF4|NEDD7|hDJ-2  DnaJ (Hsp40) homolog, subfamily A, member 1 protein-coding  D
+        - DNAJA1P1 #    -   DnaJ (Hsp40) homolog, subfamily A, member 1 pseudogene 1    pseudo  DNAJA1P1    DnaJ (Hsp40) homolog, subf
+        - DNAJA1P2 #    -   DnaJ (Hsp40) homolog, subfamily A, member 1 pseudogene 2    pseudo  DNAJA1P2    DnaJ (Hsp40) homolog, subf
+        - DNAJA1P3 #    -   DnaJ (Hsp40) homolog, subfamily A, member 1 pseudogene 3    pseudo  DNAJA1P3    DnaJ (Hsp40) homolog, subf
+        - DNAJA1P4 #    -   DnaJ (Hsp40) homolog, subfamily A, member 1 pseudogene 4    pseudo  DNAJA1P4    DnaJ (Hsp40) homolog, subf
+        - DNAJA1P5 #    HEJ1    DnaJ (Hsp40) homolog, subfamily A, member 1 pseudogene 5    pseudo  DNAJA1P5    DnaJ (Hsp40) homolog, s
+        - DNAJA1P6 #    -   DnaJ (Hsp40) homolog, subfamily A, member 1 pseudogene 6    pseudo  DNAJA1P6    DnaJ (Hsp40) homolog, subf
+        - DNAJA2 #  CPR3|DJ3|DJA2|DNAJ|DNJ3|HIRIP4|PRO3015|RDJ2 DnaJ (Hsp40) homolog, subfamily A, member 2 protein-coding  
+        - DNAJA3 #  HCA57|TID1|hTID-1   DnaJ (Hsp40) homolog, subfamily A, member 3 protein-coding  DNAJA3  DnaJ (Hsp40) homolo
+        - DNAJA4 #  MST104|MSTP104|PRO1472  DnaJ (Hsp40) homolog, subfamily A, member 4 protein-coding  DNAJA4  DnaJ (Hsp40) h
+        - DNAJB11 # ABBP-2|ABBP2|DJ9|Dj-9|EDJ|ERdj3|ERj3|ERj3p|PRO1080|UNQ537   DnaJ (Hsp40) homolog, subfamily B, member 11
+        - DNAJB12 # DJ10    DnaJ (Hsp40) homolog, subfamily B, member 12    protein-coding  DNAJB12 DnaJ (Hsp40) homolog, subfami
+        - DNAJB13 # RSPH16A|TSARG5|TSARG6   DnaJ (Hsp40) homolog, subfamily B, member 13    protein-coding  DNAJB13 DnaJ (Hsp40)
+        - DNAJB14 # EGNR9427|PRO34683   DnaJ (Hsp40) homolog, subfamily B, member 14    protein-coding  DNAJB14 DnaJ (Hsp40) hom
+        - DNAJB2 #  DSMA5|HSJ-1|HSJ1|HSPF3  DnaJ (Hsp40) homolog, subfamily B, member 2 protein-coding  DNAJB2  DnaJ (Hsp40) h
+        - DNAJB3 #  HCG3    DnaJ (Hsp40) homolog, subfamily B, member 3 protein-coding  DNAJB3  DnaJ (Hsp40) homolog, subfamily 
+        - DNAJB4 #  DNAJW|DjB4|HLJ1 DnaJ (Hsp40) homolog, subfamily B, member 4 protein-coding  DNAJB4  DnaJ (Hsp40) homolog,
+        - DNAJB5 #  Hsc40   DnaJ (Hsp40) homolog, subfamily B, member 5 protein-coding  DNAJB5  DnaJ (Hsp40) homolog, subfamily
+        - DNAJB5-AS1 #  -   DNAJB5 antisense RNA 1 (head to head)   ncRNA   DNAJB5-AS1  DNAJB5 antisense RNA 1 (head to head)   -
+        - DNAJB5P1 #    -   DnaJ (Hsp40) homolog, subfamily B, member 5 pseudogene 1    pseudo  DNAJB5P1    DnaJ (Hsp40) homolog, subf
+        - DNAJB6 #  DJ4|DnaJ|HHDJ1|HSJ-2|HSJ2|LGMD1D|LGMD1E|MRJ|MSJ-1   DnaJ (Hsp40) homolog, subfamily B, member 6 protein-c
+        - DNAJB7 #  DJ5|HSC3    DnaJ (Hsp40) homolog, subfamily B, member 7 protein-coding  DNAJB7  DnaJ (Hsp40) homolog, subfam
+        - DNAJB8 #  CT156|DJ6   DnaJ (Hsp40) homolog, subfamily B, member 8 protein-coding  DNAJB8  DnaJ (Hsp40) homolog, subfa
+        - DNAJB8-AS1 #  -   DNAJB8 antisense RNA 1  ncRNA   DNAJB8-AS1  DNAJB8 antisense RNA 1  -
+        - DNAJB9 #  ERdj4|MDG-1|MDG1|MST049|MSTP049 DnaJ (Hsp40) homolog, subfamily B, member 9 protein-coding  DNAJB9  DnaJ 
+        - DNAJC1 #  DNAJL1|ERdj1|HTJ1|MTJ1  DnaJ (Hsp40) homolog, subfamily C, member 1 protein-coding  DNAJC1  DnaJ (Hsp40) h
+        - DNAJC10 # ERdj5|JPDI|MTHr|PDIA19  DnaJ (Hsp40) homolog, subfamily C, member 10    protein-coding  DNAJC10 DnaJ (Hsp40
+        - DNAJC11 # dJ126A5.1   DnaJ (Hsp40) homolog, subfamily C, member 11    protein-coding  DNAJC11 DnaJ (Hsp40) homolog, su
+        - DNAJC12 # JDP1    DnaJ (Hsp40) homolog, subfamily C, member 12    protein-coding  DNAJC12 DnaJ (Hsp40) homolog, subfami
+        - DNAJC13 # RME8    DnaJ (Hsp40) homolog, subfamily C, member 13    protein-coding  DNAJC13 DnaJ (Hsp40) homolog, subfami
+        - DNAJC14 # DNAJ|DRIP78|HDJ3|LIP6   DnaJ (Hsp40) homolog, subfamily C, member 14    protein-coding  DNAJC14 DnaJ (Hsp40)
+        - DNAJC15 # DNAJD1|HSD18|MCJ    DnaJ (Hsp40) homolog, subfamily C, member 15    protein-coding  DNAJC15 DnaJ (Hsp40) homo
+        - DNAJC16 # -   DnaJ (Hsp40) homolog, subfamily C, member 16    protein-coding  DNAJC16 DnaJ (Hsp40) homolog, subfamily 
+        - DNAJC17 # -   DnaJ (Hsp40) homolog, subfamily C, member 17    protein-coding  DNAJC17 DnaJ (Hsp40) homolog, subfamily 
+        - DNAJC18 # -   DnaJ (Hsp40) homolog, subfamily C, member 18    protein-coding  DNAJC18 DnaJ (Hsp40) homolog, subfamily 
+        - DNAJC19 # PAM18|TIM14|TIMM14  DnaJ (Hsp40) homolog, subfamily C, member 19    protein-coding  DNAJC19 DnaJ (Hsp40) ho
+        - DNAJC19P1 #   -   DnaJ (Hsp40) homolog, subfamily C, member 19 pseudogene 1   pseudo  DNAJC19P1   DnaJ (Hsp40) homolog, s
+        - DNAJC19P2 #   -   DnaJ (Hsp40) homolog, subfamily C, member 19 pseudogene 2   pseudo  DNAJC19P2   DnaJ (Hsp40) homolog, s
+        - DNAJC19P3 #   -   DnaJ (Hsp40) homolog, subfamily C, member 19 pseudogene 3   pseudo  DNAJC19P3   DnaJ (Hsp40) homolog, s
+        - DNAJC19P5 #   -   DnaJ (Hsp40) homolog, subfamily C, member 19 pseudogene 5   pseudo  DNAJC19P5   DnaJ (Hsp40) homolog, s
+        - DNAJC19P6 #   -   DnaJ (Hsp40) homolog, subfamily C, member 19 pseudogene 6   pseudo  DNAJC19P6   DnaJ (Hsp40) homolog, s
+        - DNAJC19P7 #   -   DnaJ (Hsp40) homolog, subfamily C, member 19 pseudogene 7   pseudo  DNAJC19P7   DnaJ (Hsp40) homolog, s
+        - DNAJC19P8 #   -   DnaJ (Hsp40) homolog, subfamily C, member 19 pseudogene 8   pseudo  DNAJC19P8   DnaJ (Hsp40) homolog, s
+        - DNAJC19P9 #   -   DnaJ (Hsp40) homolog, subfamily C, member 19 pseudogene 9   pseudo  DNAJC19P9   DnaJ (Hsp40) homolog, s
+        - DNAJC2 #  MPHOSPH11|MPP11|ZRF1|ZUO1   DnaJ (Hsp40) homolog, subfamily C, member 2 protein-coding  DNAJC2  DnaJ (Hsp40
+        - DNAJC21 # DNAJA5|GS3|JJJ1 DnaJ (Hsp40) homolog, subfamily C, member 21    protein-coding  DNAJC21 DnaJ (Hsp40) homol
+        - DNAJC22 # wus DnaJ (Hsp40) homolog, subfamily C, member 22    protein-coding  DNAJC22 DnaJ (Hsp40) homolog, subfamil
+        - DNAJC24 # DPH4|JJJ3|ZCSL3 DnaJ (Hsp40) homolog, subfamily C, member 24    protein-coding  DNAJC24 DnaJ (Hsp40) homol
+        - DNAJC25 # bA16L21.2.1 DnaJ (Hsp40) homolog, subfamily C , member 25   protein-coding  DNAJC25 DnaJ (Hsp40) homolog,
+        - DNAJC25-GNG10 #   -   DNAJC25-GNG10 readthrough   protein-coding  DNAJC25-GNG10   DNAJC25-GNG10 readthrough   DNAJC25-GNG10
+        - DNAJC27 # RBJ|RabJS   DnaJ (Hsp40) homolog, subfamily C, member 27    protein-coding  DNAJC27 DnaJ (Hsp40) homolog, su
+        - DNAJC27-AS1 # -   DNAJC27 antisense RNA 1 ncRNA   DNAJC27-AS1 DNAJC27 antisense RNA 1 -
+        - DNAJC28 # C21orf55|C21orf78   DnaJ (Hsp40) homolog, subfamily C, member 28    protein-coding  DNAJC28 DnaJ (Hsp40) hom
+        - DNAJC3 #  ERdj6|HP58|P58|P58IPK|PRKRI DnaJ (Hsp40) homolog, subfamily C, member 3 protein-coding  DNAJC3  DnaJ (Hsp
+        - DNAJC3-AS1 #  -   DNAJC3 antisense RNA 1 (head to head)   ncRNA   DNAJC3-AS1  DNAJC3 antisense RNA 1 (head to head)   -
+        - DNAJC30 # WBSCR18 DnaJ (Hsp40) homolog, subfamily C, member 30    protein-coding  DNAJC30 DnaJ (Hsp40) homolog, subf
+        - DNAJC4 #  DANJC4|HSPF2|MCG18  DnaJ (Hsp40) homolog, subfamily C, member 4 protein-coding  DNAJC4  DnaJ (Hsp40) homol
+        - DNAJC5 #  CLN4|CLN4B|CSP|DNAJC5A|NCL  DnaJ (Hsp40) homolog, subfamily C, member 5 protein-coding  DNAJC5  DnaJ (Hsp4
+        - DNAJC5B # CSP-beta    DnaJ (Hsp40) homolog, subfamily C, member 5 beta    protein-coding  DNAJC5B DnaJ (Hsp40) homolog,
+        - DNAJC5G # CSP-gamma   DnaJ (Hsp40) homolog, subfamily C, member 5 gamma   protein-coding  DNAJC5G DnaJ (Hsp40) homolo
+        - DNAJC6 #  DJC6|PARK19 DnaJ (Hsp40) homolog, subfamily C, member 6 protein-coding  DNAJC6  DnaJ (Hsp40) homolog, sub
+        - DNAJC7 #  DJ11|DJC7|TPR2|TTC2 DnaJ (Hsp40) homolog, subfamily C, member 7 protein-coding  DNAJC7  DnaJ (Hsp40) homo
+        - DNAJC8 #  HSPC331|SPF31   DnaJ (Hsp40) homolog, subfamily C, member 8 protein-coding  DNAJC8  DnaJ (Hsp40) homolog, s
+        - DNAJC8P1 #    -   DnaJ (Hsp40) homolog, subfamily C, member 8 pseudogene 1    pseudo  DNAJC8P1    DnaJ (Hsp40) homolog, subf
+        - DNAJC9 #  HDJC9|JDD1|SB73 DnaJ (Hsp40) homolog, subfamily C, member 9 protein-coding  DNAJC9  DnaJ (Hsp40) homolog,
+        - DNAJC9-AS1 #  C10orf103|bA537A6.3 DNAJC9 antisense RNA 1  ncRNA   DNAJC9-AS1  DNAJC9 antisense RNA 1  -
+
+    "hsp47 family":
+        - SERPINH1 #   AsTP3|CBP1|CBP2|HSP47|OI10|PPROM|RA-A47|SERPINH2|gp46   serpin peptidase inhibitor, clade H (heat shock
+        - SERPINH1P1 # SERPINHP1|bA571F15.6|pshsp47    serpin peptidase inhibitor, clade H1, pseudogene 1  pseudo  SERPINH1P1  s
+        
+    "calreticulin family":
+        - CALR   #    CRT|HEL-S-99n|RO|SSA|cC1qR  calreticulin    protein-coding  CALR    calreticulin    CRP55|ERp60|HACBP|Sicca syndrome
+        - CALR3  #   CMH19|CRT2|CT93 calreticulin 3  protein-coding  CALR3   calreticulin 3  calreticulin-2|calreticulin-3|calsper
+        - CALR4P #  -   calreticulin 4, pseudogene  pseudo  CALR4P  calreticulin 4, pseudogene  -
+        - CANX # CNX|IP90|P90    calnexin    protein-coding  CANX    calnexin    major histocompatibility complex class I antigen-b
+
+    "hsp60 family":
+        - HSPD1   # CPN60|GROEL|HLD4|HSP-60|HSP60|HSP65|HuCHA60|SPG13   heat shock 60kDa protein 1 (chaperonin) protein-coding
+        - HSPD1P1 # HSPD1-2P    heat shock 60kDa protein 1 (chaperonin) pseudogene 1    pseudo  HSPD1P1 heat shock 60kDa protein 
+        - HSPD1P2 # HSP60P2|HSPD-9P|HSPDP2  heat shock 60kDa protein 1 (chaperonin) pseudogene 2    pseudo  HSPD1P2 heat shock 
+        - HSPD1P3 # HSP60P1|HSP60P3|HSP60P4|HSPD1-7P|HSPDP1|HSPDP3|HSPDP4   heat shock 60kDa protein 1 (chaperonin) pseudoge
+    
+    "hsp70 family":
+        - HSPA1A  # HEL-S-103|HSP70-1|HSP70-1A|HSP70I|HSP72|HSPA1   heat shock 70kDa protein 1A protein-coding  HSPA1A  heat sh
+        - HSPA1B  # HSP70-1B|HSP70-2    heat shock 70kDa protein 1B protein-coding  HSPA1B  heat shock 70kDa protein 1B HSP70-1/
+        - HSPA1L  # HSP70-1L|HSP70-HOM|HSP70T|hum70t    heat shock 70kDa protein 1-like protein-coding  HSPA1L  heat shock 70kDa
+        - HSPA2   # HSP70-2|HSP70-3 heat shock 70kDa protein 2  protein-coding  HSPA2   heat shock 70kDa protein 2  heat shock 70
+        - HSPA4   # APG-2|HEL-S-5a|HS24/P52|HSPH2|RY|hsp70|hsp70RY  heat shock 70kDa protein 4  protein-coding  HSPA4   heat shoc
+        - HSPA6   # -   heat shock 70kDa protein 6 (HSP70B')    protein-coding  HSPA6   heat shock 70kDa protein 6 (HSP70B')    heat sh
+        - HSPA7   # HSP70B  heat shock 70kDa protein 7 (HSP70B) pseudo  HSPA7   heat shock 70kDa protein 7 (HSP70B) -
+        - HSPA14  # HSP70-4|HSP70L1 heat shock 70kDa protein 14 protein-coding  HSPA14  heat shock 70kDa protein 14 HSP70-lik
+        - HSPA8   # HEL-33|HEL-S-72p|HSC54|HSC70|HSC71|HSP71|HSP73|HSPA10|LAP-1|LAP1|NIP71  heat shock 70kDa protein 8  protei
+        - HSPA4L  # APG-1|HSPH3|Osp94   heat shock 70kDa protein 4-like protein-coding  HSPA4L  heat shock 70kDa protein 4-like
+        - HSPA5   # BIP|GRP78|HEL-S-89n|MIF2    heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)   protein-coding  HS
+        - HSPA8P1 # HSPAP1  heat shock 70kDa protein 8 pseudogene 1 pseudo  HSPA8P1 heat shock 70kDa protein 8 pseudogene 1 
+        - HSPA8P2 #   heat shock 70kDa protein 8 pseudogene 2 pseudo  HSPA8P2 heat shock 70kDa protein 8 pseudogene 2 -
+        - HSPA8P3 #   heat shock 70kDa protein 8 pseudogene 3 pseudo  HSPA8P3 heat shock 70kDa protein 8 pseudogene 3 -
+        - HSPA8P4 #   heat shock 70kDa protein 8 pseudogene 4 pseudo  HSPA8P4 heat shock 70kDa protein 8 pseudogene 4 -
+        - HSPA8P5 #   heat shock 70kDa protein 8 pseudogene 5 pseudo  HSPA8P5 heat shock 70kDa protein 8 pseudogene 5 -
+        - HSPA8P6 #   heat shock 70kDa protein 8 pseudogene 6 pseudo  HSPA8P6 heat shock 70kDa protein 8 pseudogene 6 -
+        - HSPA8P7 #   heat shock 70kDa protein 8 pseudogene 7 pseudo  HSPA8P7 heat shock 70kDa protein 8 pseudogene 7 -
+        - HSPA8P8 #   heat shock 70kDa protein 8 pseudogene 8 pseudo  HSPA8P8 heat shock 70kDa protein 8 pseudogene 8 -
+        - HSPA8P9 #   heat shock 70kDa protein 8 pseudogene 9 pseudo  HSPA8P9 heat shock 70kDa protein 8 pseudogene 9 -
+        - HSPA8P10  #  heat shock 70kDa protein 8 pseudogene 10    pseudo  HSPA8P10    heat shock 70kDa protein 8 pseudogene 10    -
+        - HSPA8P11  #  heat shock 70kDa protein 8 pseudogene 11    pseudo  HSPA8P11    heat shock 70kDa protein 8 pseudogene 11    -
+        - HSPA8P12  #  heat shock 70kDa protein 8 pseudogene 12    pseudo  HSPA8P12    heat shock 70kDa protein 8 pseudogene 12    -
+        - HSPA8P14  #  heat shock 70kDa protein 8 pseudogene 14    pseudo  HSPA8P14    heat shock 70kDa protein 8 pseudogene 14    -
+        - HSPA8P15  #  heat shock 70kDa protein 8 pseudogene 15    pseudo  HSPA8P15    heat shock 70kDa protein 8 pseudogene 15    -
+        - HSPA8P16  #  heat shock 70kDa protein 8 pseudogene 16    pseudo  HSPA8P16    heat shock 70kDa protein 8 pseudogene 16    -
+        - HSPA8P17  #  heat shock 70kDa protein 8 pseudogene 17    pseudo  HSPA8P17    heat shock 70kDa protein 8 pseudogene 17    -
+        - HSPA8P19  #  heat shock 70kDa protein 8 pseudogene 19    pseudo  HSPA8P19    heat shock 70kDa protein 8 pseudogene 19    -
+        - HSPA8P20  #  heat shock 70kDa protein 8 pseudogene 20    pseudo  HSPA8P20    heat shock 70kDa protein 8 pseudogene 20    -
+        - HSPA9   #CRP40|CSA|GRP-75|GRP75|HEL-S-124m|HSPA9B|MOT|MOT2|MTHSP75|PBP74 heat shock 70kDa protein 9 (mortalin)   pr
+        - HSPA9P1 #HSPA9BP|HSPA9P  heat shock 70kDa protein 9 pseudogene 1 pseudo  HSPA9P1 heat shock 70kDa protein 9 pseud
+        - HSPA9P2 #   heat shock 70kDa protein 9 pseudogene 2 pseudo  HSPA9P2 heat shock 70kDa protein 9 pseudogene 2 -
+        - HSPA12A #   heat shock 70kDa protein 12A    protein-coding  HSPA12A heat shock 70kDa protein 12A    heat shock 70 kDa p
+        - HSPA12B # C20orf60|dJ1009E24.2    heat shock 70kD protein 12B protein-coding  HSPA12B heat shock 70kD protein 12B he
+        - HSPA13  # STCH    heat shock protein 70kDa family, member 13  protein-coding  HSPA13  heat shock protein 70kDa family, 
+        - HSPBP1  # FES1    HSPA (heat shock 70kDa) binding protein, cytoplasmic cochaperone 1  protein-coding  HSPBP1  HSPA (hea
+        - HYOU1 # GRP170 grp-170
+
+    "hsp90 family":
+        - HSP90AA1    # EL52|HSP86|HSP89A|HSP90A|HSP90N|HSPC1|HSPCA|HSPCAL1|HSPCAL4|HSPN|Hsp89|Hsp90|LAP-2|LAP2 heat shock pr
+        - HSP90AA2P   # HSP90AA2|HSP90ALPHA|HSPCA|HSPCAL3   heat shock protein 90kDa alpha (cytosolic), class A member 2, pseu
+        - HSP90AA3P   # HSPCAL1 heat shock protein 90kDa alpha (cytosolic), class A member 3, pseudogene    pseudo  HSP90AA3P   he
+        - HSP90AA4P   # HSP90Ad|HSPCAL2 heat shock protein 90kDa alpha (cytosolic), class A member 4, pseudogene    pseudo  HSP9
+        - HSP90AA5P   # HSP90Ae heat shock protein 90kDa alpha (cytosolic), class A member 5, pseudogene    pseudo  HSP90AA5P   he
+        - HSP90AA6P   # HSP90Af heat shock protein 90kDa alpha (cytosolic), class A member 6, pseudogene    pseudo  HSP90AA6P   he
+        - HSP90AB1    # D6S182|HSP84|HSP90B|HSPC2|HSPCB heat shock protein 90kDa alpha (cytosolic), class B member 1    protein-
+        - HSP90AB2P   # HSP90BB heat shock protein 90kDa alpha (cytosolic), class B member 2, pseudogene    pseudo  HSP90AB2P   he
+        - HSP90AB3P   # HSP90BC|HSPCP1  heat shock protein 90kDa alpha (cytosolic), class B member 3, pseudogene    pseudo  HSP90
+        - HSP90AB4P   # HSP90Bd heat shock protein 90kDa alpha (cytosolic), class B member 4, pseudogene    pseudo  HSP90AB4P   he
+        - HSP90AB5P   # HSP90BE heat shock protein 90kDa alpha (cytosolic), class B member 5, pseudogene    pseudo  HSP90AB5P   he
+        - HSP90AB6P   # HSP90Bf heat shock protein 90kDa alpha (cytosolic), class B member 6, pseudogene    pseudo  HSP90AB6P   he
+        - HSP90AB7P   # -   heat shock protein 90kDa alpha (cytosolic), class B member 7, pseudogene    pseudo  HSP90AB7P   heat sho
+        - HSP90B1 # endoplasmin ECGP|GP96|GRP94|HEL-S-125m|HEL35|TRA1   heat shock protein 90kDa beta (Grp94), member 1 protein-coding  H
+        - HSP90B2P    # GRP94P1|GRP94b|HSP|HSPCP2|TRA1P1|TRAP1  heat shock protein 90kDa beta (Grp94), member 2, pseudogene ps
+        - HSP90B3P    # GRP94C|TRA1P2|TRAP2 heat shock protein 90kDa beta (Grp94), member 3, pseudogene pseudo  HSP90B3P    heat 
+
+    "hsp100 family":
+        - CLPB  #  HSP78|SKD3  ClpB caseinolytic peptidase B homolog (E. coli) protein-coding  CLPB    ClpB caseinolytic peptidas
+
+    "other hsps and chaperones":
+        - GAK
+        - SMN1  # BCD541|GEMIN1|SMA|SMA1|SMA2|SMA3|SMA4|SMA@|SMN|SMNT|T-BCD541|TDRD16A    survival of motor neuron 1, telomeri
+        - SMN2  # BCD541|C-BCD541|GEMIN1|SMNC|TDRD16B survival of motor neuron 2, centromeric protein-coding  SMN2    survival
+        - CLU #   APO-J|APOJ|CLI|CLU1|CLU2|KUB1|NA1/NA2|SGP-2|SGP2|SP-40|TRPM-2|TRPM2 clusterin   protein-coding  CLU clusterin
+        - CLUAP1 #  CFAP22|FAP22    clusterin associated protein 1  protein-coding  CLUAP1  clusterin associated protein 1  cilia
+        - CLUL1 #   RA337M  clusterin-like 1 (retinal)  protein-coding  CLUL1   clusterin-like 1 (retinal)  clusterin-like protein
+        - HSCB
+        - HSPB3   # DHMN2C|HMN2C|HSPL27 heat shock 27kDa protein 3  protein-coding  HSPB3   heat shock 27kDa protein 3  HSP 17|he
+        - HSPB7   # cvHSP   heat shock 27kDa protein family, member 7 (cardiovascular)  protein-coding  HSPB7   heat shock 27kDa p
+        - HSPB8   # CMT2L|DHMN2|E2IG1|H11|HMN2|HMN2A|HSP22  heat shock 22kDa protein 8  protein-coding  HSPB8   heat shock 22kDa 
+        - HSPB9   # CT51    heat shock protein, alpha-crystallin-related, B9    protein-coding  HSPB9   heat shock protein, alpha-cry
+        - HSPB11  # C1orf41|HSPCO34|IFT25|PP25  heat shock protein family B (small), member 11  protein-coding  HSPB11  heat sh
+        - HSPBAP1 # PASS1   HSPB (heat shock 27kDa) associated protein 1    protein-coding  HSPBAP1 HSPB (heat shock 27kDa) asso
+        - HSPC081 # uncharacterized LOC100286989    unknown -   -   -
+        - HSPD1P4 # HSPD1-5P    heat shock 60kDa protein 1 (chaperonin) pseudogene 4    pseudo  HSPD1P4 heat shock 60kDa protein 
+        - HSPD1P5 # HSPD1-8P|HSPDP5 heat shock 60kDa protein 1 (chaperonin) pseudogene 5    pseudo  HSPD1P5 heat shock 60kDa p
+        - HSPD1P6 # HSPD1-6P|HSPDP6 heat shock 60kDa protein 1 (chaperonin) pseudogene 6    pseudo  HSPD1P6 heat shock 60kDa p
+        - HSPD1P7 # HSPD1-22P|HSPDP7    heat shock 60kDa protein 1 (chaperonin) pseudogene 7    pseudo  HSPD1P7 heat shock 60kDa 
+        - HSPD1P8 # HSPD1-12P   heat shock 60kDa protein 1 (chaperonin) pseudogene 8    pseudo  HSPD1P8 heat shock 60kDa protein
+        - HSPD1P9 # HSPD1-14P   heat shock 60kDa protein 1 (chaperonin) pseudogene 9    pseudo  HSPD1P9 heat shock 60kDa protein
+        - HSPD1P10    # HSPD1-4P    heat shock 60kDa protein 1 (chaperonin) pseudogene 10   pseudo  HSPD1P10    heat shock 60kDa prote
+        - HSPD1P11    # HSPD1-11P   heat shock 60kDa protein 1 (chaperonin) pseudogene 11   pseudo  HSPD1P11    heat shock 60kDa prot
+        - HSPD1P12    # HSPD1-10P   heat shock 60kDa protein 1 (chaperonin) pseudogene 12   pseudo  HSPD1P12    heat shock 60kDa prot
+        - HSPD1P13    # HSPD1-16P   heat shock 60kDa protein 1 (chaperonin) pseudogene 13   pseudo  HSPD1P13    heat shock 60kDa prot
+        - HSPD1P14    # HSPD1-17P   heat shock 60kDa protein 1 (chaperonin) pseudogene 14   pseudo  HSPD1P14    heat shock 60kDa prot
+        - HSPD1P15    # HSPD1-15P   heat shock 60kDa protein 1 (chaperonin) pseudogene 15   pseudo  HSPD1P15    heat shock 60kDa prot
+        - HSPD1P16    # HSPD1-13P   heat shock 60kDa protein 1 (chaperonin) pseudogene 16   pseudo  HSPD1P16    heat shock 60kDa prot
+        - HSPD1P17    # HSPD1-19P   heat shock 60kDa protein 1 (chaperonin) pseudogene 17   pseudo  HSPD1P17    heat shock 60kDa prot
+        - HSPD1P18    # HSPD1-1P    heat shock 60kDa protein 1 (chaperonin) pseudogene 18   pseudo  HSPD1P18    heat shock 60kDa prote
+        - HSPD1P19    # HSPD1-18P   heat shock 60kDa protein 1 (chaperonin) pseudogene 19   pseudo  HSPD1P19    heat shock 60kDa prot
+        - HSPD1P20    # HSPD1-20P   heat shock 60kDa protein 1 (chaperonin) pseudogene 20   pseudo  HSPD1P20    heat shock 60kDa prot
+        - HSPD1P21    # HSPD1-3P    heat shock 60kDa protein 1 (chaperonin) pseudogene 21   pseudo  HSPD1P21    heat shock 60kDa prote
+        - HSPD1P22    # HSPD1-21P   heat shock 60kDa protein 1 (chaperonin) pseudogene 22   pseudo  HSPD1P22    heat shock 60kDa prot
+        - HSPH1   # HSP105|HSP105A|HSP105B|NY-CO-25 heat shock 105kDa/110kDa protein 1  protein-coding  HSPH1   heat shock 105kD
+        - SACS
+        - SEC63
+
+"heat shock factors and regulators":
+    - AHSA1
+    - AHSA2
+    - HSF1
+    - HSF2
+    - HSF2BP
+    - HSF4
+    - HSF5
+    - HSFX1
+    - HSFX2
+    - HSFY1
+    - HSFY1P1
+    - HSFY2
+    - HSFY3P
+    - HSFY4P
+    - HSBP1L1
+    - HSBP1P1
+    - HSBP1P2
+    - HSBP1
+

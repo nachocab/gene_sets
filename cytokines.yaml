@@ -159,6 +159,7 @@ cytokines:
         - IL4R 
         - IL5RA 
         - IL6R 
+        - IL6ST
         - IL6RP1
         - IL7R
         - IL9R
@@ -243,7 +244,7 @@ cytokines:
         - ILDR2
         - KIT 
         - LIFR 
-        - OSMR 
+        - OSMR # oncostatin M receptor, binds il6
         - TGFBR1 
         - TGFBR2 
         - CNTFR 
@@ -253,20 +254,37 @@ cytokines:
         - PRLR # prolactin receptor
 
 proinflammatory:
-- CCL2
-- CCL3
-- CCL4
-- CXCL10
-- CXCL9
-- IFNA1
-- IFNA2
-- IFNG
-- IL12A
-- IL15 # hypothesis: IL-15 induces the highly inflammatory Th1 response that activates T-helper cells
-- IL16
-- IL1B
-- IL1RN
-- IL5
-- IL6
-- CXCL8
-- TNF
+    - CCL2
+    - CCL3
+    - CCL4
+    - CXCL10
+    - CXCL9
+    - IFNA1
+    - IFNA2
+    - IFNG
+    - IL12A
+    - IL15 # hypothesis: IL-15 induces the highly inflammatory Th1 response that activates T-helper cells
+    - IL16
+    - IL1B
+    - IL1RN
+    - IL5
+    - IL6
+    - CXCL8
+    - TNF
+
+"suppressor of cytokine signaling":
+    - SOCS1 #   CIS1|CISH1|JAB|SOCS-1|SSI-1|SSI1|TIP3   suppressor of cytokine signaling 1  protein-coding  SOCS1   suppressor
+    - SOCS2 #   CIS2|Cish2|SOCS-2|SSI-2|SSI2|STATI2 suppressor of cytokine signaling 2  protein-coding  SOCS2   suppressor o
+    - SOCS2P1 # -   suppressor of cytokine signaling 2 pseudogene 1 pseudo  SOCS2P1 suppressor of cytokine signaling 2 ps
+    - SOCS2P2 # -   suppressor of cytokine signaling 2 pseudogene 2 pseudo  SOCS2P2 suppressor of cytokine signaling 2 ps
+    - SOCS3 #   ATOD4|CIS3|Cish3|SOCS-3|SSI-3|SSI3  suppressor of cytokine signaling 3  protein-coding  SOCS3   suppressor of
+    - SOCS4 #   SOCS7   suppressor of cytokine signaling 4  protein-coding  SOCS4   suppressor of cytokine signaling 4  SH2 dom
+    - SOCS5 #   CIS6|CISH6|Cish5|SOCS-5 suppressor of cytokine signaling 5  protein-coding  SOCS5   suppressor of cytokine s
+    - SOCS5P1 # -   suppressor of cytokine signaling 5 pseudogene 1 pseudo  SOCS5P1 suppressor of cytokine signaling 5 ps
+    - SOCS5P2 # -   suppressor of cytokine signaling 5 pseudogene 2 pseudo  SOCS5P2 suppressor of cytokine signaling 5 ps
+    - SOCS5P3 # -   suppressor of cytokine signaling 5 pseudogene 3 pseudo  SOCS5P3 suppressor of cytokine signaling 5 ps
+    - SOCS5P4 # -   suppressor of cytokine signaling 5 pseudogene 4 pseudo  SOCS5P4 suppressor of cytokine signaling 5 ps
+    - SOCS5P5 # -   suppressor of cytokine signaling 5 pseudogene 5 pseudo  SOCS5P5 suppressor of cytokine signaling 5 ps
+    - SOCS6 #   CIS-4|CIS4|HSPC060|SOCS-4|SOCS-6|SOCS4|SSI4|STAI4|STATI4    suppressor of cytokine signaling 6  protein-codi
+    - SOCS7 #   NAP4|NCKAP4 suppressor of cytokine signaling 7  protein-coding  SOCS7   suppressor of cytokine signaling 7  N
+    - CISH # BACTS2|CIS|CIS-1|G18|SOCS   cytokine inducible SH2-containing protein   protein-coding  CISH    cytokine inducibl

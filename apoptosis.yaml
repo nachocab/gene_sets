@@ -1,190 +1,193 @@
 apoptosis:
-- ABL1
-- ACTB
-- AIFM1
-- AKT1
-- NUPR1
-- BTG1
-- ASNS
-- TP53INP1
-- ATP6AP1
-- RRAGC
-- TRIB3
-- APAF1
-- B2M
-- BAD
-- BAG1
-- BAG3
-- BAK1
-- BAX
-- BCL2
-- BCL2A1
-- BCL2L1
-- BCL2L2
-- BCL2L10
-- BCL2L11
-- BCL10
-- BFAR
-- BID
-- BIK
-- BIN1
-- BIRC2
-- BIRC3
-- BIRC5
-- BIRC6
-- BNIP2
-- BNIP3
-- BNIP3L
-- BRAF
-- CASP1
-- CASP2
-- CASP3
-- CASP4
-- CASP5
-- CASP6
-- CASP7
-- CASP8
-- CASP9
-- CASP10
-- CASP14
-- CAV1
-- CD27
-- CD40
-- CD40LG
-- CD70
-- CFLAR
-- CHM
-- CHML
-- CHUK # IKK1
-- CIDEA
-- CIDEB
-- CRADD
-- CTTN
-- CYCS
-- CYR61
-- DAPK1
-- DAXX
-- DFFA
-- DIABLO
-- FADD
-- FAS # FasR
-- FASLG
-- GADD45A
-- GAPDH
-- GRB2
-- GRB7
-- GRB10
-- HPRT1
-- HRK
-- IGF1R
-- IL10
-- LDB3
-- LTA
-- LTBR
-- MAP2K1
-- MAP2K1P1
-- MAP2K2
-- MAP2K3
-- MAP2K4
-- MAP2K4P1
-- MAP2K5
-- MAP2K6
-- MAP2K7
-- MAP3K1
-- MAP3K2
-- MAP3K3
-- MAP3K4
-- MAP3K5
-- MAP3K6
-- MAP3K7
-- MAP3K7CL
-- MAP3K8
-- MAP3K9
-- MAP3K10
-- MAP3K11
-- MAP3K12
-- MAP3K13
-- MAP3K14
-- MAP3K14-AS1
-- MAP3K15
-- MAP3K19
-- MAPK1
-- MAPK1IP1L
-- MAPK3
-- MAPK4
-- MAPK6
-- MAPK6PS1
-- MAPK6PS2
-- MAPK6PS3
-- MAPK6PS4
-- MAPK6PS5
-- MAPK6PS6
-- MAPK7
-- MAPK8
-- MAPK8IP1
-- MAPK8IP2
-- MAPK8IP3
-- MAPK8IPP
-- MAPK9
-- MAPK10
-- MAPK11
-- MAPK12
-- MAPK13
-- MAPK14
-- MAPK15
-- MAPKAP1
-- MAPKAPK2
-- MAPKAPK3
-- MAPKAPK5
-- MAPKAPK5-AS1
-- MAPKAPK5P1
-- MAPKBP1
-- MCL1
-- NAIP
-- NFKB1
-- NFKB2
-- NFKBIA
-- NFKBIB
-- NFKBID
-- NFKBIE
-- NFKBIL1
-- NFKBIZ
-- NOD1
-- NOL3
-- PXN
-- PYCARD
-- RIPK2
-- RPLP0
-- SH3BP2
-- SMAD1
-- SMAD2
-- SMAD3
-- SMAD4
-- SMAD5
-- SMAD6
-- SMAD7
-- SMAD9
-- TNF
-- TNFRSF1A
-- TNFRSF1B
-- TNFRSF9
-- TNFRSF10A
-- TNFRSF10B
-- TNFRSF11B
-- TNFRSF21
-- TNFRSF25
-- TNFSF8
-- TNFSF10 # TRAIL
-- TP53
-- TP53BP2
-- TP73
-- TRADD
-- TRAF1
-- TRAF2
-- TRAF3
-- TRAF4
-- TRAF5
-- TRAF6
-- XIAP
-- YWHAE
-- YWHAZ
+    "anti-apoptotic":
+        - BCL2
+        - BCL2A1 # BCL-XL
+        - BCL2L1
+        - BCL2L2
+        - BCL2L10
+        - BCL2L11
+    "pro-apoptotic":
+        - ABL1
+        - ACTB
+        - AIFM1
+        - AKT1
+        - NUPR1
+        - BTG1
+        - ASNS
+        - TP53INP1
+        - ATP6AP1
+        - RRAGC
+        - TRIB3
+        - APAF1
+        - B2M
+        - BAD
+        - BAG1
+        - BAG3
+        - BAK1
+        - BAX
+        - BCL10
+        - BFAR
+        - BID
+        - BIK
+        - BIN1
+        - BIRC2
+        - BIRC3
+        - BIRC5 # survivin
+        - BIRC6
+        - BNIP2
+        - BNIP3
+        - BNIP3L
+        - BRAF
+        - CASP1
+        - CASP2
+        - CASP3
+        - CASP4
+        - CASP5
+        - CASP6
+        - CASP7
+        - CASP8
+        - CASP9
+        - CASP10
+        - CASP14
+        - CAV1
+        - CD27
+        - CD40
+        - CD40LG
+        - CD70
+        - CFLAR
+        - CHM
+        - CHML
+        - CHUK # IKK1
+        - CIDEA
+        - CIDEB
+        - CRADD
+        - CTTN
+        - CYCS # cytochrome c
+        - CYR61
+        - DAPK1
+        - DAXX
+        - DFFA
+        - DIABLO
+        - FADD
+        - FAS # CD95 FasR
+        - FASLG
+        - GADD45A
+        - GAPDH
+        - GRB2
+        - GRB7
+        - GRB10
+        - HPRT1
+        - HRK
+        - IGF1R
+        - IL10
+        - LDB3
+        - LTA
+        - LTBR
+        - MAP2K1
+        - MAP2K1P1
+        - MAP2K2
+        - MAP2K3
+        - MAP2K4
+        - MAP2K4P1
+        - MAP2K5
+        - MAP2K6
+        - MAP2K7
+        - MAP3K1
+        - MAP3K2
+        - MAP3K3
+        - MAP3K4
+        - MAP3K5 # ASK1
+        - MAP3K6
+        - MAP3K7
+        - MAP3K7CL
+        - MAP3K8
+        - MAP3K9
+        - MAP3K10
+        - MAP3K11
+        - MAP3K12
+        - MAP3K13
+        - MAP3K14
+        - MAP3K14-AS1
+        - MAP3K15
+        - MAP3K19
+        - MAPK1
+        - MAPK1IP1L
+        - MAPK3
+        - MAPK4
+        - MAPK6
+        - MAPK6PS1
+        - MAPK6PS2
+        - MAPK6PS3
+        - MAPK6PS4
+        - MAPK6PS5
+        - MAPK6PS6
+        - MAPK7
+        - MAPK8
+        - MAPK8IP1
+        - MAPK8IP2
+        - MAPK8IP3
+        - MAPK8IPP
+        - MAPK9
+        - MAPK10
+        - MAPK11
+        - MAPK12
+        - MAPK13
+        - MAPK14
+        - MAPK15
+        - MAPKAP1
+        - MAPKAPK2
+        - MAPKAPK3
+        - MAPKAPK5
+        - MAPKAPK5-AS1
+        - MAPKAPK5P1
+        - MAPKBP1
+        - MCL1
+        - NAIP
+        - NFKB1
+        - NFKB2
+        - NFKBIA
+        - NFKBIB
+        - NFKBID
+        - NFKBIE
+        - NFKBIL1
+        - NFKBIZ
+        - NOD1
+        - NOL3
+        - PXN
+        - PYCARD
+        - RIPK2
+        - RPLP0
+        - SH3BP2
+        - SMAD1
+        - SMAD2
+        - SMAD3
+        - SMAD4
+        - SMAD5
+        - SMAD6
+        - SMAD7
+        - SMAD9
+        - TNF
+        - TNFRSF1A
+        - TNFRSF1B
+        - TNFRSF9
+        - TNFRSF10A
+        - TNFRSF10B
+        - TNFRSF11B
+        - TNFRSF21
+        - TNFRSF25
+        - TNFSF8
+        - TNFSF10 # TRAIL
+        - TP53
+        - TP53BP2
+        - TP73
+        - TRADD
+        - TRAF1
+        - TRAF2
+        - TRAF3
+        - TRAF4
+        - TRAF5
+        - TRAF6
+        - XIAP
+        - YWHAE
+        - YWHAZ
+

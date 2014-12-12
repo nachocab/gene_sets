@@ -1,9 +1,61 @@
+famous:
+- CXCL10    
+- CXCL11    
+- DDX58  # RIG-I
+- DHX58  # LGP2
+- IFI16 
+- IFI27
+- IFI30 
+- IFI35 
+- IFI44 
+- IFI44L    
+- IFI6  
+- IFIH1  # MDA5
+- IFIT1 
+- IFIT2 
+- IFIT3 
+- IFIT5 
+- IFITM1    
+- IFITM2    
+- IFITM3    
+- IL15  
+- IL1R1 
+- IL1RN 
+- IRF1  
+- IRF2  
+- IRF7  
+- IRF9  
+- ISG15 
+- ISG20 
+- JUNB  
+- JAK2  
+- MX1   
+- MX2   
+- MYD88 
+- NOD2  
+- OAS1  
+- OAS2  
+- OAS3  
+- OASL  
+- RSAD2 
+- STAT1 
+- STAT2 
+- STAT3 
+- THBD  
+- TLR3  
+- TLR7  
+- TNFSF10    # TRAIL
+- USP18 
+- XAF1  
+
 schoggins:
 - ABLIM3    
 - ABTB2 
 - ACSL1 
 - ADAMDEC1  
-- ADAR  
+- ADAR  # ADAR1
+- ADARB1 # ADAR2, added by me
+- ADARB2 # ADAR3, added by me
 - ADM   
 - AGPAT9    
 - AHNAK2    
@@ -35,7 +87,7 @@ schoggins:
 - BCL3  
 - BLVRA 
 - BLZF1 
-- BST2  
+- BST2  # Tetherin
 - BTN3A3    
 - BUB1  
 - C10orf10  

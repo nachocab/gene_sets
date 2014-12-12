@@ -508,9 +508,8 @@ immunity:
 - YWHAZ
 - ZFP36
 - ZP3
-- 
 - PGAP1
-- BST2
+- BST2 # Tetherin
 - BTK
 - C1QA
 - C1QB
@@ -610,7 +609,7 @@ immunity:
 - CSF3
 - CST7
 - CTLA4
-- CTSB
+- CTSB # cathepsin B
 - CTSC
 - CTSG
 - CTSH
@@ -644,7 +643,6 @@ immunity:
 - DHX58
 - DLG1
 - DMBT1
-- DNAJA3
 - DPP8
 - DUSP3
 - DUSP4
@@ -748,9 +746,6 @@ immunity:
 - HLA-Y
 - HLA-Z
 - HRH2
-- HSP90AB1
-- HSP90B1
-- HSPD1
 - ICAM1
 - ICOS
 - IFI27
@@ -1069,8 +1064,6 @@ immunity:
 - SLED1
 - SMAD6
 - SNCA
-- SOCS1
-- SOCS3
 - SP100
 - SP2
 - SPON2
@@ -1352,7 +1345,6 @@ immunity:
 - HECTD3
 - HERC2
 - HRAS
-- HSPA5
 - HUWE1
 - ICAM2
 - ICAM3
