@@ -1,23 +1,23 @@
 "heat shock proteins":
     "small family":
-        - HSPE1   CPN10|EPF|GROES|HSP10   heat shock 10kDa protein 1  protein-coding  HSPE1   heat shock 10kDa protein 1  10 kDa 
-        - HSPE1-MOB4  HSPE1-PHOCN HSPE1-MOB4 readthrough  protein-coding  HSPE1-MOB4  HSPE1-MOB4 readthrough  HSPE1-MOB4 prot
-        - HSPE1P1 HSPEP1|bA101E14.1   heat shock 10kDa protein 1 pseudogene 1 pseudo  HSPE1P1 heat shock 10kDa protein 1 ps
-        - HSPE1P2 HSPEP2  heat shock 10kDa protein 1 pseudogene 2 pseudo  HSPE1P2 heat shock 10kDa protein 1 pseudogene 2 
-        - HSPE1P3 -   heat shock 10kDa protein 1 pseudogene 3 pseudo  HSPE1P3 heat shock 10kDa protein 1 pseudogene 3 -
-        - HSPE1P4 -   heat shock 10kDa protein 1 pseudogene 4 pseudo  HSPE1P4 heat shock 10kDa protein 1 pseudogene 4 -
-        - HSPE1P5 -   heat shock 10kDa protein 1 pseudogene 5 pseudo  HSPE1P5 heat shock 10kDa protein 1 pseudogene 5 -
-        - HSPE1P7 -   heat shock 10kDa protein 1 pseudogene 7 pseudo  HSPE1P7 heat shock 10kDa protein 1 pseudogene 7 -
-        - HSPE1P8 -   heat shock 10kDa protein 1 pseudogene 8 pseudo  HSPE1P8 heat shock 10kDa protein 1 pseudogene 8 -
-        - HSPE1P10    -   heat shock 10kDa protein 1 pseudogene 10    pseudo  HSPE1P10    heat shock 10kDa protein 1 pseudogene 10    -
-        - HSPE1P12    -   heat shock 10kDa protein 1 pseudogene 12    pseudo  HSPE1P12    heat shock 10kDa protein 1 pseudogene 12    -
-        - HSPE1P16    EPF8    heat shock 10kDa protein 1 pseudogene 16    pseudo  HSPE1P16    heat shock 10kDa protein 1 pseudogene 1
-        - HSPE1P20    -   heat shock 10kDa protein 1 pseudogene 20    pseudo  HSPE1P20    heat shock 10kDa protein 1 pseudogene 20    -
-        - HSPE1P22    -   heat shock 10kDa protein 1 pseudogene 22    pseudo  HSPE1P22    heat shock 10kDa protein 1 pseudogene 22    -
-        - HSPE1P28    EPF5    heat shock 10kDa protein 1 pseudogene 28    pseudo  HSPE1P28    heat shock 10kDa protein 1 pseudogene 2
+        - HSPE1 #   CPN10|EPF|GROES|HSP10   heat shock 10kDa protein 1  protein-coding  HSPE1   heat shock 10kDa protein 1  10 kDa 
+        - HSPE1-MOB4 #  HSPE1-PHOCN HSPE1-MOB4 readthrough  protein-coding  HSPE1-MOB4  HSPE1-MOB4 readthrough  HSPE1-MOB4 prot
+        - HSPE1P1 # HSPEP1|bA101E14.1   heat shock 10kDa protein 1 pseudogene 1 pseudo  HSPE1P1 heat shock 10kDa protein 1 ps
+        - HSPE1P2 # HSPEP2  heat shock 10kDa protein 1 pseudogene 2 pseudo  HSPE1P2 heat shock 10kDa protein 1 pseudogene 2 
+        - HSPE1P3 # -   heat shock 10kDa protein 1 pseudogene 3 pseudo  HSPE1P3 heat shock 10kDa protein 1 pseudogene 3 -
+        - HSPE1P4 # -   heat shock 10kDa protein 1 pseudogene 4 pseudo  HSPE1P4 heat shock 10kDa protein 1 pseudogene 4 -
+        - HSPE1P5 # -   heat shock 10kDa protein 1 pseudogene 5 pseudo  HSPE1P5 heat shock 10kDa protein 1 pseudogene 5 -
+        - HSPE1P7 # -   heat shock 10kDa protein 1 pseudogene 7 pseudo  HSPE1P7 heat shock 10kDa protein 1 pseudogene 7 -
+        - HSPE1P8 # -   heat shock 10kDa protein 1 pseudogene 8 pseudo  HSPE1P8 heat shock 10kDa protein 1 pseudogene 8 -
+        - HSPE1P10 #    -   heat shock 10kDa protein 1 pseudogene 10    pseudo  HSPE1P10    heat shock 10kDa protein 1 pseudogene 10    -
+        - HSPE1P12 #    -   heat shock 10kDa protein 1 pseudogene 12    pseudo  HSPE1P12    heat shock 10kDa protein 1 pseudogene 12    -
+        - HSPE1P16 #    EPF8    heat shock 10kDa protein 1 pseudogene 16    pseudo  HSPE1P16    heat shock 10kDa protein 1 pseudogene 1
+        - HSPE1P20 #    -   heat shock 10kDa protein 1 pseudogene 20    pseudo  HSPE1P20    heat shock 10kDa protein 1 pseudogene 20    -
+        - HSPE1P22 #    -   heat shock 10kDa protein 1 pseudogene 22    pseudo  HSPE1P22    heat shock 10kDa protein 1 pseudogene 22    -
+        - HSPE1P28 #    EPF5    heat shock 10kDa protein 1 pseudogene 28    pseudo  HSPE1P28    heat shock 10kDa protein 1 pseudogene 2
         - CRYAA # crystallin alpha
         - CRYAB # crystallin alpha
-        - HSPB6   HEL55|Hsp20|PPP1R91 heat shock protein, alpha-crystallin-related, B6    protein-coding  HSPB6   heat shock pro
+        - HSPB6 #   HEL55|Hsp20|PPP1R91 heat shock protein, alpha-crystallin-related, B6    protein-coding  HSPB6   heat shock pro
         - HSPB1   # CMT2F|HEL-S-102|HMN2B|HS.76067|HSP27|HSP28|Hsp25|SRP27  heat shock 27kDa protein 1  protein-coding  HSPB1   h
         - HSPB1P1 # HSPBL2  heat shock 27kDa protein 1 pseudogene 1 pseudo  HSPB1P1 heat shock 27kDa protein 1 pseudogene 1 
         - HSPB1P2 # HSPBL3  heat shock 27kDa protein 1 pseudogene 2 pseudo  HSPB1P2 heat shock 27kDa protein 1 pseudogene 2 
