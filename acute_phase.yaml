@@ -1,51 +1,116 @@
+# Gabay1999
+# An acute-phase protein has been defined as one whose plasma concentration 
+# increases (positive acute-phase proteins) or decreases 
+# (negative acute-phase proteins) by at least 25 percent during 
+# inflammatory disorders.
+# 
+# Although the concentrations of multiple components of the acute-phase
+# response commonly increase together, not all of them increase uniformly in
+# all patients with the same illness.
 positive:
-- APCS # serum amyloid p
-- SAA1
-- SAA2
-- SAA4
-- CRP
-- SERPINA3
-- SERPINA1
-- A2M
-- CP # ceruloplasmin
-- FTL
-- HAMP # hepcidin
-- FTH1
-- FTMT
-- FGA
-- FGB
-- FGG
-- HP # haptoglobin
-- HPR
-- IL1RN
-- LBP
-- PLA2G2A
-- VWF
-- HPX
-- ORM1
-- TNF
-- IL1A
-- IL6
-- PLG
-- PLAT
-- SERPINE1
-
+    complement:
+        - C1R
+        - C1S
+        - C2
+        - C3
+        - C4A
+        - C4B
+        - C5
+        - C9
+        - CFB # factor b
+        - SERPING1 # C1 inhibitor
+        - C4BPA
+        - C4BPB
+        - MBL2 # mannose-binding lectin
+    coagulation:
+        - FGA # fibrinogen
+        - FGB # fibrinogen
+        - FGG # fibrinogen
+        - PLAT # t-PA, activator of PLG
+        - PLG # plasminogen, induces fibrinolysis
+        - PLAU # u-PA, activator of PLG urokinase
+        - PROS1 # protein s
+        - VTN # vitronectin
+        - SERPINE1 # PAI-1, plasminogen activator inhibitor, main inhibitor of PLAT and PLAU
+    antiproteases:
+        - SERPINA3 # antichymotrypsin
+        - SERPINA1 # antichymotrypsin
+        - SPINK1 # Pancreatic secretory trypsin inhibitor
+        - ITIH1 # inter-alpha-trypsin inhibitors
+        - ITIH2 # inter-alpha-trypsin inhibitors
+        - ITIH3 # inter-alpha-trypsin inhibitors
+        - ITIH4 # inter-alpha-trypsin inhibitors
+        - ITIH5 # inter-alpha-trypsin inhibitors
+        - ITIH6 # inter-alpha-trypsin inhibitors
+    "transport proteins":
+        - CP # ceruloplasmin
+        - HP # haptoglobin
+        - HPX # hemopexin
+    "participants in inflammatory responses":
+        - LBP # Lipopolysaccharide-binding protein
+        - IL1RN # Interleukin-1–receptor antagonist
+        - CSF3 # granulocyte colony stimulating factor
+        - PLA2G2A # secreted phospholipase A2?
+        - PLA2G10 # GXPLA2|GXSPLA2|SPLA2    phospholipase A2, group X   protein-coding  PLA2G10 phospholipase A2, group X   GX sPL
+        - PLA2G12A #    GXII|PLA2G12|ROSSY  phospholipase A2, group XIIA    protein-coding  PLA2G12A    phospholipase A2, group XIIA
+        - PLA2G12AP1 #  -   phospholipase A2, group XIIA pseudogene 1   pseudo  PLA2G12AP1  phospholipase A2, group XIIA pseudoge
+        - PLA2G12AP2 #  -   phospholipase A2, group XIIA pseudogene 2   pseudo  PLA2G12AP2  phospholipase A2, group XIIA pseudoge
+        - PLA2G12B #    GXIIB|GXIIIsPLA2|PLA2G13    phospholipase A2, group XIIB    protein-coding  PLA2G12B    phospholipase A2, group
+        - PLA2G15 # ACS|GXVPLA2|LLPL|LPLA2|LYPLA3   phospholipase A2, group XV  protein-coding  PLA2G15 phospholipase A2, grou
+        - PLA2G16 # AdPLA|H-REV107-1|HRASLS3|HREV107|HREV107-1|HREV107-3|HRSL3  phospholipase A2, group XVI protein-coding
+        - PLA2G1B # PLA2|PLA2A|PPLA2    phospholipase A2, group IB (pancreas)   protein-coding  PLA2G1B phospholipase A2, group
+        - PLA2G2A # MOM1|PLA2|PLA2B|PLA2L|PLA2S|PLAS1|sPLA2 phospholipase A2, group IIA (platelets, synovial fluid) protei
+        - PLA2G2C # -   phospholipase A2, group IIC protein-coding  PLA2G2C phospholipase A2, group IIC phosphatidylcholine 2
+        - PLA2G2D # PLA2IID|SPLASH|sPLA2-IID|sPLA2S phospholipase A2, group IID protein-coding  PLA2G2D phospholipase A2, g
+        - PLA2G2E # GIIE sPLA2|sPLA2-IIE    phospholipase A2, group IIE protein-coding  PLA2G2E phospholipase A2, group IIE gr
+        - PLA2G2F # -   phospholipase A2, group IIF protein-coding  PLA2G2F phospholipase A2, group IIF GIIF sPLA2|group IIF
+        - PLA2G3 #  GIII-SPLA2|SPLA2III|sPLA2-III   phospholipase A2, group III protein-coding  PLA2G3  phospholipase A2, group
+        - PLA2G4A # PLA2G4|cPLA2-alpha  phospholipase A2, group IVA (cytosolic, calcium-dependent)  protein-coding  PLA2G4A p
+        - PLA2G4B # HsT16992|cPLA2-beta phospholipase A2, group IVB (cytosolic) protein-coding  PLA2G4B phospholipase A2, g
+        - PLA2G4C # CPLA2-gamma phospholipase A2, group IVC (cytosolic, calcium-independent)    protein-coding  PLA2G4C phosph
+        - PLA2G4D # cPLA2delta  phospholipase A2, group IVD (cytosolic) protein-coding  PLA2G4D phospholipase A2, group IVD
+        - PLA2G4E # -   phospholipase A2, group IVE protein-coding  PLA2G4E phospholipase A2, group IVE cPLA2-epsilon|cytosol
+        - PLA2G4F # PLA2G4FZ    phospholipase A2, group IVF protein-coding  PLA2G4F phospholipase A2, group IVF cPLA2-zeta|cyt
+        - PLA2G5 #  FRFB|GV-PLA2|PLA2-10|hVPLA(2)   phospholipase A2, group V   protein-coding  PLA2G5  phospholipase A2, group V
+        - PLA2G6 #  CaI-PLA2|GVI|INAD1|IPLA2-VIA|NBIA2|NBIA2A|NBIA2B|PARK14|PLA2|PNPLA9|iPLA2|iPLA2beta phospholipase A2, g
+        - PLA2G7 #  LDL-PLA2|LP-PLA2|PAFAD|PAFAH    phospholipase A2, group VII (platelet-activating factor acetylhydrolase, p
+    "Others":
+        - CRP # first to be discovered, acute phase of pneumococcal pneumonia
+        - SAA1 # serum amyloid a1
+        - SAA2
+        - SAA4
+        - ORM1 # alpha-1-acid glycoprotein
+        - FN1 # fibronectin
+        - FTL # ferritin, light
+        - FTH1 # ferritin, heavy
+        - AGT # Angiotensinogen
+        - APCS # serum amyloid p
+        - A2M
+        - HAMP # hepcidin
+        - FTMT
+        - HPR
+        - VWF
+        - TNF
+        - IL1A
+        - IL6
+        - PLG
+        - PLAT
 
 negative:
-- ALB
-- TF
-- AHSG
-- TTR
-- RBP1
-- RBP2
-- RBP5
-- RBP7
-- SERPINC1
-- SERPINA6
-- SERPINA7
-- AFP
-- IGF1
-
+    - ALB # albumin
+    - TF # transferrin
+    - AHSG # alpha 2 HS glycoprotein
+    - TTR # Transthyretin
+    - AFP # alpha - fetoprotein
+    - SERPINA7 # Thyroxine-binding globulin
+    - IGF1 # Insulin-like growth factor I
+    - F12
+    - RBP1
+    - RBP2
+    - RBP5
+    - RBP7
+    - SERPINC1
+    - SERPINA6
 other:
 - KLKB1
 - FTH1P1
@@ -94,3 +159,56 @@ other:
 - FTLP19
 - SAA3P
 - SAAL1
+- AKT1
+- AMBP
+- APOA1
+- APOA2
+- APOH
+- MAP3K5
+- FOS
+- JUN
+- RAF1
+- ECSIT
+- ELK1
+- MAPK3
+- MAPK1
+- F2
+- F8
+- NR3C1
+- GRB2
+- HNRNPK
+- HRG
+- IL1B
+- IL6R
+- IL1R1
+- IL1RAP
+- IRAK1
+- JAK2
+- MAPK8
+- MAP2K1
+- MAP2K2
+- MAP3K1
+- MAP2K3
+- MAP2K6
+- MAP2K4
+- MAP2K7
+- MTOR
+- MYD88
+- CEBPB
+- NOLC1
+- OSM
+- OSMR
+- PDK1
+- SERPIND1
+- SHC1
+- PTPN11
+- CISH
+- SOCS3
+- SOD2
+- STAT3
+- TAB1
+- TCF3
+- TCF4
+- TRADD
+- TRAF2
+- TRAF6

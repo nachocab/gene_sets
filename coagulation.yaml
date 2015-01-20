@@ -33,11 +33,11 @@ anticoagulant:
 fibrinolytic: 
 - PLG # plasminogen, induces fibrinolysis
 - PLAT # t-PA, activator of PLG
-- PLAU # u-PA, activator of PLG
+- PLAU # u-PA, activator of PLG urokinase
 - PLAUR # u-PAR
 - CPB2 # TAFI, Thrombin-activable fibrinolysis inhibitor
 - HABP2 # FSAP
-- SERPINE1 # PAI-1, main inhibitor of PLAT and PLAU
+- SERPINE1 # PAI-1, plasminogen activator inhibitor, main inhibitor of PLAT and PLAU
 - SERPINB2 # PAI-2, only secreted by placenta
 - SERPINF1 # alpha-antiplasmin
 - SERPINF2 # alpha-antiplasmin
@@ -45,3 +45,4 @@ fibrinolytic:
 other:
 - FGL1
 - FGL2
+- SERPINA1

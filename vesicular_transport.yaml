@@ -1,0 +1,275 @@
+"synaptic vesicles":
+    - SNAP23 #  HsT17016|SNAP-23|SNAP23A|SNAP23B    synaptosomal-associated protein, 23kDa  protein-coding  SNAP23  synaptoso
+    - SNAP23P # dJ155G6.3   synaptosomal-associated protein, 23kDa pseudogene   pseudo  SNAP23P synaptosomal-associated pro
+    - SNAP25 #  RIC-4|RIC4|SEC9|SNAP|SNAP-25|bA416N4.2|dJ1068F16.2  synaptosomal-associated protein, 25kDa  protein-codin
+    - SNAP25-AS1 #  -   SNAP25 antisense RNA 1  ncRNA   SNAP25-AS1  SNAP25 antisense RNA 1  -
+    - SNAP29 #  CEDNIK|SNAP-29  synaptosomal-associated protein, 29kDa  protein-coding  SNAP29  synaptosomal-associated pro
+    - SNAP47 #  C1orf142|HEL170|SNAP-47|SVAP1   synaptosomal-associated protein, 47kDa  protein-coding  SNAP47  synaptosomal
+    - SNAP47-AS1 #  SNAP47-IT1  SNAP47 antisense RNA 1  ncRNA   SNAP47-AS1  SNAP47 antisense RNA 1  -
+    - SNAP91 #  AP180|CALM  synaptosomal-associated protein, 91kDa  protein-coding  SNAP91  synaptosomal-associated protein
+    - SNAPC1 #  PTFgamma|SNAP43 small nuclear RNA activating complex, polypeptide 1, 43kDa  protein-coding  SNAPC1  small
+    - SNAPC2 #  PTFDELTA|SNAP45 small nuclear RNA activating complex, polypeptide 2, 45kDa  protein-coding  SNAPC2  small
+    - SNAPC3 #  PTFbeta|SNAP50  small nuclear RNA activating complex, polypeptide 3, 50kDa  protein-coding  SNAPC3  small n
+    - SNAPC4 #  PTFalpha|SNAP190    small nuclear RNA activating complex, polypeptide 4, 190kDa protein-coding  SNAPC4  smal
+    - SNAPC5 #  SNAP19  small nuclear RNA activating complex, polypeptide 5, 19kDa  protein-coding  SNAPC5  small nuclear R
+    - SNAPC5P1 #    -   small nuclear RNA activating complex, polypeptide 5, 19kDa pseudogene 1 pseudo  SNAPC5P1    small nucle
+    - SNAPIN #  BLOC1S7|BLOS7|SNAPAP    SNAP-associated protein protein-coding  SNAPIN  SNAP-associated protein BLOC-1 subun
+    - STX10 #   SYN10|hsyn10    syntaxin 10 protein-coding  STX10   syntaxin 10 syntaxin-10
+    - STX11 #   FHL4|HLH4|HPLH4 syntaxin 11 protein-coding  STX11   syntaxin 11 syntaxin-11
+    - STX12 #   STX13|STX14 syntaxin 12 protein-coding  STX12   syntaxin 12 syntaxin-12
+    - STX16 #   SYN16   syntaxin 16 protein-coding  STX16   syntaxin 16 syntaxin-16
+    - STX16-NPEPL1 #    -   STX16-NPEPL1 readthrough (NMD candidate)    ncRNA   STX16-NPEPL1    STX16-NPEPL1 readthrough (NMD candi
+    - STX17 #   -   syntaxin 17 protein-coding  STX17   syntaxin 17 syntaxin-17
+    - STX17-AS1 #   -   STX17 antisense RNA 1   ncRNA   STX17-AS1   STX17 antisense RNA 1   -
+    - STX18 #   Ufe1    syntaxin 18 protein-coding  STX18   syntaxin 18 cell growth-inhibiting gene 9 protein|syntaxin-18
+    - STX18-AS1 #   -   STX18 antisense RNA 1 (head to head)    ncRNA   STX18-AS1   STX18 antisense RNA 1 (head to head)    -
+    - STX18P1 # syntaxin -   18 pseudogene 1    pseudo  STX18P1 syntaxin 18 pseudogene 1    -
+    - STX19 #   -   syntaxin 19 protein-coding  STX19   syntaxin 19 syntaxin-19
+    - STX1A #   HPC-1|P35-1|STX1|SYN1A  syntaxin 1A (brain) protein-coding  STX1A   syntaxin 1A (brain) neuron-specific anti
+    - STX1B #   STX1B1|STX1B2   syntaxin 1B protein-coding  STX1B   syntaxin 1B FP17469|syntaxin 1B1|syntaxin 1B2|syntaxin-1B
+    - STX2 #    EPIM|EPM|STX2A|STX2B|STX2C  syntaxin 2  protein-coding  STX2    syntaxin 2  epimorphin|syntaxin-2
+    - STX3 #    STX3A   syntaxin 3  protein-coding  STX3    syntaxin 3  syntaxin 3A|syntaxin-3
+    - STX4 #    STX4A|p35-2 syntaxin 4  protein-coding  STX4    syntaxin 4  renal carcinoma antigen NY-REN-31|syntaxin 4A (plac
+    - STX5 #    SED5|STX5A  syntaxin 5  protein-coding  STX5    syntaxin 5  syntaxin 5A|syntaxin-5
+    - STX6 #    -   syntaxin 6  protein-coding  STX6    syntaxin 6  syntaxin-6
+    - STX7 #    -   syntaxin 7  protein-coding  STX7    syntaxin 7  syntaxin-7
+    - STX8 #    CARB    syntaxin 8  protein-coding  STX8    syntaxin 8  CIP-1-associated regulator of cyclin B|syntaxin-8
+    - STX8P1 #  -   syntaxin 8 pseudogene 1 pseudo  STX8P1  syntaxin 8 pseudogene 1 -
+    - STXBP1 #  MUNC18-1|NSEC1|P67|RBSEC1|UNC18 syntaxin binding protein 1  protein-coding  STXBP1  syntaxin binding prote
+    - STXBP2 #  FHL5|Hunc18b|MUNC18-2|UNC18-2|UNC18B|pp10122    syntaxin binding protein 2  protein-coding  STXBP2  syntaxin
+    - STXBP3 #  MUNC18-3|MUNC18C|PSP|UNC-18C    syntaxin binding protein 3  protein-coding  STXBP3  syntaxin binding protein
+    - STXBP4 #  Synip   syntaxin binding protein 4  protein-coding  STXBP4  syntaxin binding protein 4  STX4-interacting prot
+    - STXBP5 #  LGL3|LLGL3|Nbla04300    syntaxin binding protein 5 (tomosyn)    protein-coding  STXBP5  syntaxin binding protei
+    - STXBP5-AS1 #  -   STXBP5 antisense RNA 1  ncRNA   STXBP5-AS1  STXBP5 antisense RNA 1  -
+    - STXBP5L # LLGL4   syntaxin binding protein 5-like protein-coding  STXBP5L syntaxin binding protein 5-like lethal(2)
+    - STXBP6 #  amisyn  syntaxin binding protein 6 (amisyn) protein-coding  STXBP6  syntaxin binding protein 6 (amisyn) sy
+    - VAMP1 # synaptobrevin   SPAX1|SYB1|VAMP-1   vesicle-associated membrane protein 1 (synaptobrevin 1) protein-coding  VAMP1   vesicle-a
+    - VAMP2 # synaptobrevin   SYB2|VAMP-2 vesicle-associated membrane protein 2 (synaptobrevin 2) protein-coding  VAMP2   vesicle-associa
+    - VAMP3 # synaptobrevin   CEB vesicle-associated membrane protein 3   protein-coding  VAMP3   vesicle-associated membrane protein 3   VAM
+    - VAMP7 # synaptobrevin   SYBL1|TI-VAMP|TIVAMP|VAMP-7 vesicle-associated membrane protein 7   protein-coding  VAMP7   vesicle-associate
+    - SYT1 #    P65|SVP65|SYT   synaptotagmin I protein-coding  SYT1    synaptotagmin I synaptotagmin 1|synaptotagmin-1|sytI
+    - SYT10 #   -   synaptotagmin X protein-coding  SYT10   synaptotagmin X synaptotagmin 10|synaptotagmin-10|sytX
+    - SYT11 #   SYT12|sytXI synaptotagmin XI    protein-coding  SYT11   synaptotagmin XI    synaptotagmin 12|synaptotagmin-11
+    - SYT12 #   SYT11|sytXII    synaptotagmin XII   protein-coding  SYT12   synaptotagmin XII   synaptotagmin-12|synaptotagmin-XII
+    - SYT13 #   -   synaptotagmin XIII  protein-coding  SYT13   synaptotagmin XIII  synaptotagmin-13|sytXIII
+    - SYT14 #   SCAR11|sytXIV   synaptotagmin XIV   protein-coding  SYT14   synaptotagmin XIV   synaptotagmin-14
+    - SYT14P1 # CHR415SYT|SYT14L|SYTDEP synaptotagmin XIV pseudogene 1  pseudo  SYT14P1 synaptotagmin XIV pseudogene 1  -
+    - SYT15 #   CHR10SYT|sytXV  synaptotagmin XV    protein-coding  SYT15   synaptotagmin XV    chr10 synaptotagmin|synaptotagmin
+    - SYT16 #   CHR14SYT|SYT14L|Strep14|syt14r|yt14r    synaptotagmin XVI   protein-coding  SYT16   synaptotagmin XVI   chr14 syna
+    - SYT17 #   -   synaptotagmin XVII  protein-coding  SYT17   synaptotagmin XVII  B/K protein|protein B/K|synaptotagmin-17|sy
+    - SYT2 #    MYSPC|SytII synaptotagmin II    protein-coding  SYT2    synaptotagmin II    synaptotagmin-2
+    - SYT3 #    SytIII  synaptotagmin III   protein-coding  SYT3    synaptotagmin III   synaptotagmin-3
+    - SYT4 #    HsT1192 synaptotagmin IV    protein-coding  SYT4    synaptotagmin IV    synaptotagmin 4|synaptotagmin-4|sytIV
+    - SYT5 #    -   synaptotagmin V protein-coding  SYT5    synaptotagmin V synaptotagmin 5|synaptotagmin-5|sytV
+    - SYT6 #    sytVI   synaptotagmin VI    protein-coding  SYT6    synaptotagmin VI    synaptotagmin-6
+    - SYT7 #    IPCA-7|IPCA7|PCANAP7|SYT-VII|SYTVII synaptotagmin VII   protein-coding  SYT7    synaptotagmin VII   prostate canc
+    - SYT8 #    -   synaptotagmin VIII  protein-coding  SYT8    synaptotagmin VIII  synaptotagmin-8|sytVIII
+    - SYT9 #    -   synaptotagmin IX    protein-coding  SYT9    synaptotagmin IX    synaptotagmin-9|sytIX
+    - SYTL1 #   JFC1|SLP1   synaptotagmin-like 1    protein-coding  SYTL1   synaptotagmin-like 1    NADPH oxidase-related, C2 domai
+    - SYTL2 #   CHR11SYT|EXO4|PPP1R151|SGA72M|SLP2|SLP2A    synaptotagmin-like 2    protein-coding  SYTL2   synaptotagmin-like 2
+    - SYTL3 #   SLP3    synaptotagmin-like 3    protein-coding  SYTL3   synaptotagmin-like 3    exophilin-6|synaptotagmin-like prote
+    - SYTL4 #   SLP4    synaptotagmin-like 4    protein-coding  SYTL4   synaptotagmin-like 4    exophilin-2|granuphilin-a|synaptotag
+    - SYTL5 #   slp5    synaptotagmin-like 5    protein-coding  SYTL5   synaptotagmin-like 5    exophilin 9|synaptotagmin-like prote
+    - SYP #  MRX96|MRXSYP    synaptophysin   protein-coding  SYP synaptophysin   major synaptic vesicle protein P38
+    - SYN1 #    SYN1a|SYN1b|SYNI    synapsin I  protein-coding  SYN1    synapsin I  brain protein 4.1|synapsin-1
+    - SYN2 #    SYNII   synapsin II protein-coding  SYN2    synapsin II synapsin-2
+    - SYN3 #    -   synapsin III    protein-coding  SYN3    synapsin III    cN28H9.2 (synapsin III)|synapsin-3
+    - RAB3A # RAB3A -  , member RAS oncogene family   protein-coding  RAB3A   RAB3A, member RAS oncogene family   RAS-associate
+
+"COPI and COPII":
+    - COPA #    HEP-COP coatomer protein complex, subunit alpha protein-coding  COPA    coatomer protein complex, subunit alp
+    - COPB1 #   COPB    coatomer protein complex, subunit beta 1    protein-coding  COPB1   coatomer protein complex, subunit bet
+    - COPB2 #   beta'-COP   coatomer protein complex, subunit beta 2 (beta prime)   protein-coding  COPB2   coatomer protein co
+    - COPE #    epsilon-COP coatomer protein complex, subunit epsilon   protein-coding  COPE    coatomer protein complex, subun
+    - COPG1 #   COPG    coatomer protein complex, subunit gamma 1   protein-coding  COPG1   coatomer protein complex, subunit ga
+    - COPG2 #   2-COP|gamma-2-COP   coatomer protein complex, subunit gamma 2   protein-coding  COPG2   coatomer protein comple
+    - COPZ1 #   COPZ|HSPC181|zeta-COP|zeta1-COP coatomer protein complex, subunit zeta 1    protein-coding  COPZ1   coatomer p
+    - COPZ2 #   zeta2-COP   coatomer protein complex, subunit zeta 2    protein-coding  COPZ2   coatomer protein complex, subuni
+    - ARCN1 #   COPD    archain 1   protein-coding  ARCN1   archain 1   archain vesicle transport protein 1|coatomer delta subunit
+    - SEC23A #  CLSD    Sec23 homolog A (S. cerevisiae) protein-coding  SEC23A  Sec23 homolog A (S. cerevisiae) SEC23-relate
+    - SAR1A #   SAR1|SARA1|Sara|masra2  secretion associated, Ras related GTPase 1A protein-coding  SAR1A   secretion associ
+
+"Clathrin":
+    - CLTA #    LCA clathrin, light chain A protein-coding  CLTA    clathrin, light chain A clathrin light chain A|clathrin,
+    - CLTB #    LCB clathrin, light chain B protein-coding  CLTB    clathrin, light chain B clathrin light chain B|clathrin,
+    - CLTC #    CHC|CHC17|CLH-17|CLTCL2|Hc  clathrin, heavy chain (Hc)  protein-coding  CLTC    clathrin, heavy chain (Hc)  clat
+
+"Caveolae":
+    - CAV1 #    BSCL3|CGL3|LCCNS|MSTP085|PPH3|VIP21 caveolin 1, caveolae protein, 22kDa protein-coding  CAV1    caveolin 1, c
+    - CAV2 #    CAV caveolin 2  protein-coding  CAV2    caveolin 2  caveolae protein, 20-kD|caveolin 2 isoform a and b|caveolin
+    - CAV3 #    LGMD1C|LQT9|VIP-21|VIP21    caveolin 3  protein-coding  CAV3    caveolin 3  M-caveolin|caveolin-3
+
+"Other":
+    - AP1AR #    2C18|C4orf16|GBAR|gamma-BAR adaptor-related protein complex 1 associated regulatory protein protein-codi
+    - AP1B1 #    ADTB1|AP105A|BAM22|CLAPB2   adaptor-related protein complex 1, beta 1 subunit   protein-coding  AP1B1   adaptor
+    - AP1B1P1 #  ADTB1L1|dJ127L4.2   adaptor-related protein complex 1, beta 1 subunit pseudogene 1  pseudo  AP1B1P1 adapto
+    - AP1B1P2 #  ADTB1L2|dJ127L4.3   adaptor-related protein complex 1, beta 1 subunit pseudogene 2  pseudo  AP1B1P2 adapto
+    - AP1G1 #    ADTG|CLAPG1 adaptor-related protein complex 1, gamma 1 subunit  protein-coding  AP1G1   adaptor-related prot
+    - AP1G2 #    G2AD    adaptor-related protein complex 1, gamma 2 subunit  protein-coding  AP1G2   adaptor-related protein com
+    - AP1M1 #    AP47|CLAPM2|CLTNM|MU-1A adaptor-related protein complex 1, mu 1 subunit protein-coding  AP1M1   adaptor-rel
+    - AP1M2 #    AP1-mu2|HSMU1B|MU-1B|MU1B|mu2   adaptor-related protein complex 1, mu 2 subunit protein-coding  AP1M2   adapt
+    - AP1S1 #    AP19|CLAPS1|EKV3|MEDNIK|SIGMA1A|WUGSC:H_DJ0747G18.2 adaptor-related protein complex 1, sigma 1 subunit  p
+    - AP1S2 #    MGC:1902|MRX59|MRXS21|MRXS5|MRXSF|PGS|SIGMA1B   adaptor-related protein complex 1, sigma 2 subunit  protein
+    - AP1S3 #    -   adaptor-related protein complex 1, sigma 3 subunit  protein-coding  AP1S3   adaptor-related protein comple
+    - AP2A1 #    ADTAA|AP2-ALPHA|CLAPA1  adaptor-related protein complex 2, alpha 1 subunit  protein-coding  AP2A1   adaptor-r
+    - AP2A2 #    ADTAB|CLAPA2|HIP-9|HIP9|HYPJ    adaptor-related protein complex 2, alpha 2 subunit  protein-coding  AP2A2   ada
+    - AP2B1 #    ADTB2|AP105B|AP2-BETA|CLAPB1    adaptor-related protein complex 2, beta 1 subunit   protein-coding  AP2B1   adap
+    - AP2M1 #    AP50|CLAPM1|mu2 adaptor-related protein complex 2, mu 1 subunit protein-coding  AP2M1   adaptor-related pro
+    - AP2S1 #    AP17|CLAPS2|FBH3|FBHOk|HHC3 adaptor-related protein complex 2, sigma 1 subunit  protein-coding  AP2S1   adap
+    - AP3B1 #    ADTB3|ADTB3A|HPS|HPS2|PE    adaptor-related protein complex 3, beta 1 subunit   protein-coding  AP3B1   adaptor-
+    - AP3B2 #    NAPTB   adaptor-related protein complex 3, beta 2 subunit   protein-coding  AP3B2   adaptor-related protein com
+    - AP3D1 #    ADTD|hBLVR  adaptor-related protein complex 3, delta 1 subunit  protein-coding  AP3D1   adaptor-related prote
+    - AP3M1 #    -   adaptor-related protein complex 3, mu 1 subunit protein-coding  AP3M1   adaptor-related protein complex 3
+    - AP3M2 #    AP47B|CLA20|P47B    adaptor-related protein complex 3, mu 2 subunit protein-coding  AP3M2   adaptor-related pr
+    - AP3S1 #    CLAPS3|Sigma3A  adaptor-related protein complex 3, sigma 1 subunit  protein-coding  AP3S1   adaptor-related p
+    - AP3S2 #    AP3S3|sigma3b   adaptor-related protein complex 3, sigma 2 subunit  protein-coding  AP3S2   adaptor-related pr
+    - AP4B1 #    BETA-4|CPSQ5|SPG47  adaptor-related protein complex 4, beta 1 subunit   protein-coding  AP4B1   adaptor-relate
+    - AP4B1-AS1 #    -   AP4B1 antisense RNA 1   ncRNA   AP4B1-AS1   AP4B1 antisense RNA 1   -
+    - AP4E1 #    CPSQ4|SPG51 adaptor-related protein complex 4, epsilon 1 subunit    protein-coding  AP4E1   adaptor-related pr
+    - AP4M1 #    CPSQ3|MU-4|MU-ARP2|SPG50    adaptor-related protein complex 4, mu 1 subunit protein-coding  AP4M1   adaptor-re
+    - AP4S1 #    AP47B|CLA20|CLAPS4|CPSQ6|SPG52  adaptor-related protein complex 4, sigma 1 subunit  protein-coding  AP4S1   a
+    - AP5B1 #    AP-5|PP1030 adaptor-related protein complex 5, beta 1 subunit   protein-coding  AP5B1   adaptor-related prote
+    - AP5M1 #    C14orf108|MUDENG|Mu5|MuD    adaptor-related protein complex 5, mu 1 subunit protein-coding  AP5M1   adaptor-re
+    - AP5S1 #    C20orf29    adaptor-related protein complex 5, sigma 1 subunit  protein-coding  AP5S1   adaptor-related protein
+    - AP5Z1 #    KIAA0415|SPG48|zeta adaptor-related protein complex 5, zeta 1 subunit   protein-coding  AP5Z1   adaptor-relat
+    - LMAN1 #    ERGIC-53|ERGIC53|F5F8D|FMFD1|MCFD1|MR60|gp58    lectin, mannose-binding, 1  protein-coding  LMAN1   lectin, man
+    - LYST #     CHS|CHS1    lysosomal trafficking regulator protein-coding  LYST    lysosomal trafficking regulator Chediak-Higa
+    - DTNBP1 #   BLOC1S8|DBND|HPS7|My031|SDY dystrobrevin binding protein 1  protein-coding  DTNBP1  dystrobrevin binding p
+    - BLOC1S1 #  BLOS1|GCN5L1|MICoA|RT14 biogenesis of lysosomal organelles complex-1, subunit 1 protein-coding  BLOC1S1
+    - BLOC1S1-RDH5 #     -   BLOC1S1-RDH5 readthrough    ncRNA   -   -   -
+    - BLOC1S2 #  BLOS2|CEAP|CEAP11   biogenesis of lysosomal organelles complex-1, subunit 2 protein-coding  BLOC1S2 bioge
+    - BLOC1S3 #  BLOS3|HPS8|RP   biogenesis of lysosomal organelles complex-1, subunit 3 protein-coding  BLOC1S3 biogenesi
+    - BLOC1S4 #  BCAS4L|BLOS4|CNO    biogenesis of lysosomal organelles complex-1, subunit 4, cappuccino protein-coding  BL
+    - BLOC1S5 #  BLOS5|MU|MUTED  biogenesis of lysosomal organelles complex-1, subunit 5, muted  protein-coding  BLOC1S5 b
+    - BLOC1S5-TXNDC5 #   MUTED-TXNDC5    BLOC1S5-TXNDC5 readthrough (NMD candidate)  ncRNA   BLOC1S5-TXNDC5  BLOC1S5-TXNDC5 rea
+    - BLOC1S6 #  BLOS6|HPS9|PA|PALLID|PLDN   biogenesis of lysosomal organelles complex-1, subunit 6, pallidin   protein-co
+    - HPS1 #    HPS Hermansky-Pudlak syndrome 1 protein-coding  HPS1    Hermansky-Pudlak syndrome 1 Hermansky-Pudlak syndrome
+    - HPS3 #    SUTAL   Hermansky-Pudlak syndrome 3 protein-coding  HPS3    Hermansky-Pudlak syndrome 3 Hermansky-Pudlak syndro
+    - HPS4 #    LE  Hermansky-Pudlak syndrome 4 protein-coding  HPS4    Hermansky-Pudlak syndrome 4 Hermansky-Pudlak syndrome
+    - HPS5 #    AIBP63  Hermansky-Pudlak syndrome 5 protein-coding  HPS5    Hermansky-Pudlak syndrome 5 Hermansky-Pudlak syndr
+    - HPS6 #    -   Hermansky-Pudlak syndrome 6 protein-coding  HPS6    Hermansky-Pudlak syndrome 6 Hermansky-Pudlak syndrome 6
+    - PLIN3 #   M6PRBP1|PP17|TIP47  perilipin 3 protein-coding  PLIN3   perilipin 3 47 kDa MPR-binding protein|cargo selecti
+    - DNM1 #    DNM dynamin 1   protein-coding  DNM1    dynamin 1   dynamin-1
+    - DNM1L #   DLP1|DRP1|DVLP|DYMPLE|EMPF|HDYNIV   dynamin 1-like  protein-coding  DNM1L   dynamin 1-like  Dnm1p/Vps1p-like pr
+    - DNM2 #    CMT2M|CMTDI1|CMTDIB|DI-CMTB|DYN2|DYNII|LCCS5    dynamin 2   protein-coding  DNM2    dynamin 2   dynamin II|dynamin-2
+    - DNM3 #    Dyna III    dynamin 3   protein-coding  DNM3    dynamin 3   T-dynamin|dynamin family member|dynamin, testicular|dyna
+    - DNMBP #   ARHGEF36|TUBA   dynamin binding protein protein-coding  DNMBP   dynamin binding protein dynamin-binding prote
+    - EHD1 #    H-PAST|HPAST1|PAST|PAST1    EH-domain containing 1  protein-coding  EHD1    EH-domain containing 1  EH domain-cont
+    - EHD2 #    PAST2   EH-domain containing 2  protein-coding  EHD2    EH-domain containing 2  EH domain containing 2|EH domain-
+    - EHD3 #    PAST3   EH-domain containing 3  protein-coding  EHD3    EH-domain containing 3  EH domain containing 3|EH domain-
+    - EHD4 #    PAST4   EH-domain containing 4  protein-coding  EHD4    EH-domain containing 4  EH domain containing 4|EH domain-
+    - VTA1 #    C6orf55|DRG-1|DRG1|LIP5|My012|SBP1  vesicle (multivesicular body) trafficking 1 protein-coding  VTA1    vesicl
+    - SYNRG #   AP1GBP1|SYNG    synergin, gamma protein-coding  SYNRG   synergin, gamma AP1 gamma subunit binding protein 1|AP
+
+"Sorting nexins":
+    - SNX1 #    HsT17379|VPS5   sorting nexin 1 protein-coding  SNX1    sorting nexin 1 sorting nexin 1A|sorting nexin-1
+    - SNX10 #   OPTB8   sorting nexin 10    protein-coding  SNX10   sorting nexin 10    sorting nexin-10
+    - SNX11 #   -   sorting nexin 11    protein-coding  SNX11   sorting nexin 11    sorting nexin-11
+    - SNX12 #   -   sorting nexin 12    protein-coding  SNX12   sorting nexin 12    sorting nexin-12
+    - SNX13 #   RGS-PX1 sorting nexin 13    protein-coding  SNX13   sorting nexin 13    rgs domain- and phox domain-containing pr
+    - SNX14 #   RGS-PX2 sorting nexin 14    protein-coding  SNX14   sorting nexin 14    sorting nexin-14
+    - SNX15 #   HSAF001435  sorting nexin 15    protein-coding  SNX15   sorting nexin 15    clone iota unknown protein|sorting nex
+    - SNX16 #   -   sorting nexin 16    protein-coding  SNX16   sorting nexin 16    sorting nexin-16
+    - SNX17 #   -   sorting nexin 17    protein-coding  SNX17   sorting nexin 17    sorting nexin-17
+    - SNX18 #   SH3PX2|SH3PXD3B|SNAG1   sorting nexin 18    protein-coding  SNX18   sorting nexin 18    SH3 and PX domain-containin
+    - SNX18P10 #    -   sorting nexin 18 pseudogene 10  pseudo  SNX18P10    sorting nexin 18 pseudogene 10  -
+    - SNX18P11 #    -   sorting nexin 18 pseudogene 11  pseudo  SNX18P11    sorting nexin 18 pseudogene 11  -
+    - SNX18P12 #    -   sorting nexin 18 pseudogene 12  pseudo  SNX18P12    sorting nexin 18 pseudogene 12  -
+    - SNX18P13 #    -   sorting nexin 18 pseudogene 13  pseudo  SNX18P13    sorting nexin 18 pseudogene 13  -
+    - SNX18P14 #    -   sorting nexin 18 pseudogene 14  pseudo  SNX18P14    sorting nexin 18 pseudogene 14  -
+    - SNX18P15 #    -   sorting nexin 18 pseudogene 15  pseudo  SNX18P15    sorting nexin 18 pseudogene 15  -
+    - SNX18P16 #    -   sorting nexin 18 pseudogene 16  pseudo  SNX18P16    sorting nexin 18 pseudogene 16  -
+    - SNX18P17 #    -   sorting nexin 18 pseudogene 17  pseudo  SNX18P17    sorting nexin 18 pseudogene 17  -
+    - SNX18P18 #    -   sorting nexin 18 pseudogene 18  pseudo  SNX18P18    sorting nexin 18 pseudogene 18  -
+    - SNX18P19 #    -   sorting nexin 18 pseudogene 19  pseudo  SNX18P19    sorting nexin 18 pseudogene 19  -
+    - SNX18P1Y #    -   sorting nexin 18 pseudogene 1, Y-linked pseudo  SNX18P1Y    sorting nexin 18 pseudogene 1, Y-linked -
+    - SNX18P2 # -   sorting nexin 18 pseudogene 2   pseudo  SNX18P2 sorting nexin 18 pseudogene 2   -
+    - SNX18P20 #    -   sorting nexin 18 pseudogene 20  pseudo  SNX18P20    sorting nexin 18 pseudogene 20  -
+    - SNX18P21 #    -   sorting nexin 18 pseudogene 21  pseudo  SNX18P21    sorting nexin 18 pseudogene 21  -
+    - SNX18P22 #    -   sorting nexin 18 pseudogene 22  pseudo  SNX18P22    sorting nexin 18 pseudogene 22  -
+    - SNX18P23 #    -   sorting nexin 18 pseudogene 23  pseudo  SNX18P23    sorting nexin 18 pseudogene 23  -
+    - SNX18P24 #    -   sorting nexin 18 pseudogene 24  pseudo  SNX18P24    sorting nexin 18 pseudogene 24  -
+    - SNX18P25 #    -   sorting nexin 18 pseudogene 25  pseudo  SNX18P25    sorting nexin 18 pseudogene 25  -
+    - SNX18P26 #    -   sorting nexin 18 pseudogene 26  pseudo  SNX18P26    sorting nexin 18 pseudogene 26  -
+    - SNX18P27 #    -   sorting nexin 18 pseudogene 27  pseudo  SNX18P27    sorting nexin 18 pseudogene 27  -
+    - SNX18P3 # -   sorting nexin 18 pseudogene 3   pseudo  SNX18P3 sorting nexin 18 pseudogene 3   -
+    - SNX18P4 # -   sorting nexin 18 pseudogene 4   pseudo  SNX18P4 sorting nexin 18 pseudogene 4   -
+    - SNX18P5 # SNX18P6 sorting nexin 18 pseudogene 5   pseudo  SNX18P5 sorting nexin 18 pseudogene 5   -
+    - SNX18P7 # -   sorting nexin 18 pseudogene 7   pseudo  SNX18P7 sorting nexin 18 pseudogene 7   -
+    - SNX18P8 # -   sorting nexin 18 pseudogene 8   pseudo  SNX18P8 sorting nexin 18 pseudogene 8   -
+    - SNX18P9 # -   sorting nexin 18 pseudogene 9   pseudo  SNX18P9 sorting nexin 18 pseudogene 9   -
+    - SNX19 #   CHET8   sorting nexin 19    protein-coding  SNX19   sorting nexin 19    sorting nexin-19
+    - SNX19P1 # SNX19P  sorting nexin 19 pseudogene 1   pseudo  SNX19P1 sorting nexin 19 pseudogene 1   -
+    - SNX19P2 # -   sorting nexin 19 pseudogene 2   pseudo  SNX19P2 sorting nexin 19 pseudogene 2   -
+    - SNX19P3 # -   sorting nexin 19 pseudogene 3   pseudo  SNX19P3 sorting nexin 19 pseudogene 3   -
+    - SNX19P4 # -   sorting nexin 19 pseudogene 4   pseudo  SNX19P4 sorting nexin 19 pseudogene 4   -
+    - SNX2 #    TRG-9   sorting nexin 2 protein-coding  SNX2    sorting nexin 2 CTB-36H16.2|sorting nexin-2|transformation-rela
+    - SNX20 #   SLIC1   sorting nexin 20    protein-coding  SNX20   sorting nexin 20    selectin ligand interactor cytoplasmic 1|se
+    - SNX21 #   C20orf161|PP3993|SNX-L|dJ337O18.4   sorting nexin family member 21  protein-coding  SNX21   sorting nexin fami
+    - SNX22 #   -   sorting nexin 22    protein-coding  SNX22   sorting nexin 22    sorting nexin-22
+    - SNX24 #   PRO1284 sorting nexin 24    protein-coding  SNX24   sorting nexin 24    sorting nexin-24|sorting nexing 24
+    - SNX25 #   SBBI31  sorting nexin 25    protein-coding  SNX25   sorting nexin 25    sorting nexin-25
+    - SNX25P1 # -   sorting nexin 25 pseudogene 1   pseudo  SNX25P1 sorting nexin 25 pseudogene 1   -
+    - SNX27 #   MRT1|MY014  sorting nexin family member 27  protein-coding  SNX27   sorting nexin family member 27  methamphet
+    - SNX29 #   A-388D4.1|RUNDC2A   sorting nexin 29    protein-coding  SNX29   sorting nexin 29    RUN domain containing 2A|RUN do
+    - SNX29P1 # RUNDC2B|RUNDC2L sorting nexin 29 pseudogene 1   pseudo  SNX29P1 sorting nexin 29 pseudogene 1   -
+    - SNX29P2 # RUNDC2C sorting nexin 29 pseudogene 2   pseudo  SNX29P2 sorting nexin 29 pseudogene 2   -
+    - SNX2P1 #  -   sorting nexin 2 pseudogene 1    pseudo  SNX2P1  sorting nexin 2 pseudogene 1    -
+    - SNX2P2 #  -   sorting nexin 2 pseudogene 2    pseudo  SNX2P2  sorting nexin 2 pseudogene 2    -
+    - SNX3 #    Grd19|MCOPS8|SDP3   sorting nexin 3 protein-coding  SNX3    sorting nexin 3 sorting nexin 3A|sorting nexin-3
+    - SNX30 #   ATG24A  sorting nexin family member 30  protein-coding  SNX30   sorting nexin family member 30  sorting nexin-
+    - SNX31 #   -   sorting nexin 31    protein-coding  SNX31   sorting nexin 31    sorting nexin-31
+    - SNX32 #   SNX6B   sorting nexin 32    protein-coding  SNX32   sorting nexin 32    sorting nexin 6B|sorting nexin-32|sorting n
+    - SNX33 #   SH3PX3|SH3PXD3C|SNX30   sorting nexin 33    protein-coding  SNX33   sorting nexin 33    SH3 and PX domain containin
+    - SNX33P1 # -   sorting nexin 33 pseudogene 1   pseudo  SNX33P1 sorting nexin 33 pseudogene 1   -
+    - SNX3P1X # -   sorting nexin 3 pseudogene 1, X-linked  pseudo  SNX3P1X sorting nexin 3 pseudogene 1, X-linked  -
+    - SNX3P1Y # -   sorting nexin 3 pseudogene 1, Y-linked  pseudo  SNX3P1Y sorting nexin 3 pseudogene 1, Y-linked  -
+    - SNX4 #    ATG24B  sorting nexin 4 protein-coding  SNX4    sorting nexin 4 sorting nexin-4
+    - SNX5 #    -   sorting nexin 5 protein-coding  SNX5    sorting nexin 5 sorting nexin-5
+    - SNX5P1 #  -   sorting nexin 5 pseudogene 1    pseudo  SNX5P1  sorting nexin 5 pseudogene 1    -
+    - SNX5P2 #  -   sorting nexin 5 pseudogene 2    pseudo  SNX5P2  sorting nexin 5 pseudogene 2    -
+    - SNX6 #    MSTP010|TFAF2   sorting nexin 6 protein-coding  SNX6    sorting nexin 6 TRAF4-associated factor 2|sorting nexin
+    - SNX6P1 #  -   sorting nexin 6 pseudogene 1    pseudo  SNX6P1  sorting nexin 6 pseudogene 1    -
+    - SNX7 #    -   sorting nexin 7 protein-coding  SNX7    sorting nexin 7 sorting nexin-7
+    - SNX8 #    Mvp1    sorting nexin 8 protein-coding  SNX8    sorting nexin 8 sorting nexin-8
+    - SNX9 #    SDP1|SH3PX1|SH3PXD3A|WISP   sorting nexin 9 protein-coding  SNX9    sorting nexin 9 SH3 and PX domain-containin
+
+"Vacuolar protein sorting":
+    - VPS11 #   END1|PEP5|RNF108|hVPS11 vacuolar protein sorting 11 homolog (S. cerevisiae) protein-coding  VPS11   vacuola
+    - VPS13A #  CHAC|CHOREIN    vacuolar protein sorting 13 homolog A (S. cerevisiae)   protein-coding  VPS13A  vacuolar prote
+    - VPS13A-AS1 #  -   VPS13A antisense RNA 1  ncRNA   VPS13A-AS1  VPS13A antisense RNA 1  -
+    - VPS13B #  CHS1|COH1   vacuolar protein sorting 13 homolog B (yeast)   protein-coding  VPS13B  vacuolar protein sorting
+    - VPS13C #  -   vacuolar protein sorting 13 homolog C (S. cerevisiae)   protein-coding  VPS13C  vacuolar protein sorting
+    - VPS13D #  -   vacuolar protein sorting 13 homolog D (S. cerevisiae)   protein-coding  VPS13D  vacuolar protein sorting
+    - VPS16 #   hVPS16  vacuolar protein sorting 16 homolog (S. cerevisiae) protein-coding  VPS16   vacuolar protein sorting
+    - VPS18 #   PEP3    vacuolar protein sorting 18 homolog (S. cerevisiae) protein-coding  VPS18   vacuolar protein sorting 1
+    - VPS25 #   DERP9|EAP20|FAP20   vacuolar protein sorting 25 homolog (S. cerevisiae) protein-coding  VPS25   vacuolar prot
+    - VPS25P1 # -   VPS25 pseudogene 1  pseudo  VPS25P1 VPS25 pseudogene 1  -
+    - VPS26A #  HB58|Hbeta58|PEP8A|VPS26    vacuolar protein sorting 26 homolog A (S. pombe)    protein-coding  VPS26A  vacuola
+    - VPS26AP1 #    -   VPS26A pseudogene 1 pseudo  VPS26AP1    VPS26A pseudogene 1 -
+    - VPS26B #  Pep8b   vacuolar protein sorting 26 homolog B (S. pombe)    protein-coding  VPS26B  vacuolar protein sorting 2
+    - VPS26BP1 #    -   VPS26B pseudogene 1 pseudo  VPS26BP1    VPS26B pseudogene 1 -
+    - VPS28 #   -   vacuolar protein sorting 28 homolog (S. cerevisiae) protein-coding  VPS28   vacuolar protein sorting 28 h
+    - VPS29 #   DC15|PEP11  vacuolar protein sorting 29 homolog (S. cerevisiae) protein-coding  VPS29   vacuolar protein sor
+    - VPS33A #  -   vacuolar protein sorting 33 homolog A (S. cerevisiae)   protein-coding  VPS33A  vacuolar protein sorting
+    - VPS33B #  -   vacuolar protein sorting 33 homolog B (yeast)   protein-coding  VPS33B  vacuolar protein sorting 33 homol
+    - VPS35 #   MEM3|PARK17 vacuolar protein sorting 35 homolog (S. cerevisiae) protein-coding  VPS35   vacuolar protein so
+    - VPS36 #   C13orf9|EAP45   vacuolar protein sorting 36 homolog (S. cerevisiae) protein-coding  VPS36   vacuolar protein
+    - VPS37A #  HCRP1|PQBP2|SPG53   vacuolar protein sorting 37 homolog A (S. cerevisiae)   protein-coding  VPS37A  vacuolar
+    - VPS37B #  -   vacuolar protein sorting 37 homolog B (S. cerevisiae)   protein-coding  VPS37B  vacuolar protein sorting
+    - VPS37C #  -   vacuolar protein sorting 37 homolog C (S. cerevisiae)   protein-coding  VPS37C  vacuolar protein sorting
+    - VPS37D #  WBSCR24 vacuolar protein sorting 37 homolog D (S. cerevisiae)   protein-coding  VPS37D  vacuolar protein so
+    - VPS39 #   TLP|VAM6|hVam6p vacuolar protein sorting 39 homolog (S. cerevisiae) protein-coding  VPS39   vacuolar protei
+    - VPS41 #   HVPS41|HVSP41|hVps41p   vacuolar protein sorting 41 homolog (S. cerevisiae) protein-coding  VPS41   vacuolar
+    - VPS45 #   H1|H1VPS45|SCN5|VPS45A|VPS45B|VPS54A|VSP45|VSP45A   vacuolar protein sorting 45 homolog (S. cerevisiae) pr
+    - VPS4A #   SKD1|SKD1A|SKD2|VPS4|VPS4-1 vacuolar protein sorting 4 homolog A (S. cerevisiae)    protein-coding  VPS4A   va
+    - VPS4B #   SKD1|SKD1B|VPS4-2   vacuolar protein sorting 4 homolog B (S. cerevisiae)    protein-coding  VPS4B   vacuolar pro
+    - VPS51 #   ANG2|ANG3|C11orf2|C11orf3|FFR   vacuolar protein sorting 51 homolog (S. cerevisiae) protein-coding  VPS51   v
+    - VPS52 #   ARE1|SAC2|SACM2L|dJ1033B10.5    vacuolar protein sorting 52 homolog (S. cerevisiae) protein-coding  VPS52   va
+    - VPS53 #   HCCS1|PCH2E|hVps53L|pp13624 vacuolar protein sorting 53 homolog (S. cerevisiae) protein-coding  VPS53   vac
+    - VPS54 #   HCC8|PPP1R164|SLP-8p|VPS54L|WR|hVps54L  vacuolar protein sorting 54 homolog (S. cerevisiae) protein-codin
+    - VPS72 #   CFL1|Swc2|TCFL1|YL-1|YL1    vacuolar protein sorting 72 homolog (S. cerevisiae) protein-coding  VPS72   vacuol
+    - VPS8 #    KIAA0804    vacuolar protein sorting 8 homolog (S. cerevisiae)  protein-coding  VPS8    vacuolar protein sorting
+    - VPS9D1 #  ATP-BL|C16orf7  VPS9 domain containing 1    protein-coding  VPS9D1  VPS9 domain containing 1    VPS9 domain-cont
+    - VPS9D1-AS1 #  -   VPS9D1 antisense RNA 1  ncRNA   VPS9D1-AS1  VPS9D1 antisense RNA 1  -
+

@@ -1,144 +1,225 @@
+# cytokines are small proteins that play important roles in cell signaling. They act by binding receptors.
+# they play important roles in the immune system: they modulate the balance between humoral and cell-based
+# immune responses, they regulate the maturation, growth and responsiveness of cell populations.
+# multiple cells release them
+# they generally don't include hormones (since these circulate in much lower concentrations and tend to be
+# produced in specific cells) or growth factors
+
+cytokine_patterns:
+    # promotes cellular immunity (activates macrophages and cyto CD8s, )
+    th1:
+        - IL2
+        - IFNG
+
+    # promotes humoral immunity (activates B cells, antibody class switching)
+    th2:
+        - IL4
+        - IL5
+        - IL13
+
+    both_12:
+        - IL6
+        - IL9
+        - IL10
+        - IL3
+        - TNF
+        - CSF2
+
+    th17:
+        - IL17A
+        - IL21
+        - IL22
+
 chemokine:
     "cc family":
-    - CCL1
-    - CCL2 # MCP-1
-    - CCL3 # MIP-1a
-    - CCL3L1 # MIP-1aP
-    - CCL4 # # MIP-1b
-    - CCL4L1 # # MIP-1b2
-    - CCL5 # RANTES
-    - CCL7 # MCP-3
-    - CCL8 # MCP-2
-    - CCL11 # eotaxin
-    - CCL13 # MCP-4
-    - CCL14 # HCC1
-    - CCL15 # HCC2
-    - CCL16 # HCC4
-    - CCL17 # TARC
-    - CCL18 # PARC
-    - CCL19 # ELC
-    - CCL20 # MIP-3b
-    - CCL21 # SLC
-    - CCL22 # MDC
-    - CCL23 # MPIF-1
-    - CCL24 # eotaxin 2
-    - CCL25 # TECK
-    - CCL26 # eotaxin 3
-    - CCL27 # CTACK
-    - CCL28 # MEC
+        - CCL1
+        - CCL2 # MCP-1
+        - CCL3 # MIP-1a
+        - CCL3L1 # MIP-1aP
+        - CCL4 # # MIP-1b
+        - CCL4L1 # # MIP-1b2
+        - CCL5 # RANTES
+        - CCL7 # MCP-3
+        - CCL8 # MCP-2
+        - CCL11 # eotaxin
+        - CCL13 # MCP-4
+        - CCL14 # HCC1
+        - CCL15 # HCC2
+        - CCL16 # HCC4
+        - CCL17 # TARC
+        - CCL18 # PARC
+        - CCL19 # ELC
+        - CCL20 # MIP-3b
+        - CCL21 # SLC
+        - CCL22 # MDC
+        - CCL23 # MPIF-1
+        - CCL24 # eotaxin 2
+        - CCL25 # TECK
+        - CCL26 # eotaxin 3
+        - CCL27 # CTACK
+        - CCL28 # MEC
     
     "CXC family":
-    - CXCL1 # GROa
-    - CXCL2 # GROb
-    - CXCL3 # GROg
-    - PF4 # CXCL4
-    - CXCL5 # ENA78
-    - CXCL6 # GCP2
-    - PPBP # CXCL7, nap2
-    - CXCL8 # IL8
-    - CXCL9 # MIG
-    - CXCL10 # IP-10
-    - CXCL11 # I-TAC
-    - CXCL12 # SDF1
-    - CXCL13 # BCA1
-    - CXCL14 # BRAK
-    - CXCL16
-    - CXCL17
+        - CXCL1 # GROa
+        - CXCL2 # GROb
+        - CXCL3 # GROg
+        - PF4 # CXCL4
+        - CXCL5 # ENA78
+        - CXCL6 # GCP2
+        - PPBP # CXCL7, nap2
+        - CXCL8 # IL8
+        - CXCL9 # MIG
+        - CXCL10 # IP-10
+        - CXCL11 # I-TAC
+        - CXCL12 # SDF1
+        - CXCL13 # BCA1
+        - CXCL14 # BRAK
+        - CXCL16
+        - CXCL17
 
     "CX3C family":
-    - CX3CL1 # fractalkine
+        - CX3CL1 # fractalkine
     "XC family":
-    - XCL1 # lymphotactin
-    - XCL2 # SCM-1b
+        - XCL1 # lymphotactin
+        - XCL2 # SCM-1b
 
 "chemokine receptor":
     "CC family":
-    - CCR1 #
-    - CCR2 #
-    - CCR3 #
-    - CCR4 #
-    - CCR5 #
-    - CCR6 #
-    - CCR7 #
-    - CCR8 #
-    - CCR9 #
-    - CCR10 #
+        - CCR1 #
+        - CCR2 #
+        - CCR3 #
+        - CCR4 #
+        - CCR5 #
+        - CCR6 #
+        - CCR7 #
+        - CCR8 #
+        - CCR9 #
+        - CCR10 #
 
     "CXC family":
-    - CXCR1 #
-    - CXCR2 #
-    - CXCR3 #
-    - CXCR4 #
-    - CXCR5 #
-    - CXCR6 #
-    - ACKR3 # CXCR7
+        - CXCR1 #
+        - CXCR2 #
+        - CXCR3 #
+        - CXCR4 #
+        - CXCR5 #
+        - CXCR6 #
+        - ACKR3 # CXCR7
     "CX3C family":
-    - CX3CR1 #
+        - CX3CR1 #
     "XC family":
-    - XCR1 #
+        - XCR1 #
 
 cytokines:
     interleukins:
-    - IL1A
-    - IL1B
-    - IL1RN
-    - IL2
-    - IL3
-    - IL4
-    - IL5
-    - IL6
-    - IL7
-    - IL9
-    - IL10
-    - IL11
-    - IL12A
-    - IL13
-    - TXLNA # IL14
-    - IL15
-    - IL16
-    - IL17A
-    - IL17B
-    - IL18
-    - IL19
-    - IL20
-    - IL21
-    - IL22
-    - LIF
-    - OSM
-    - CNTF
-    - CTF1
+        - IL1A
+        - IL1B
+        - IL1F10
+        - IL2
+        - IL3
+        - IL4
+        - IL5
+        - IL6
+        - IL7
+        - IL9
+        - IL10
+        - IL11
+        - IL12A
+        - IL12B
+        - IL13
+        - IL15
+        - IL16
+        - IL17A
+        - IL17B
+        - IL17C
+        - IL17D
+        - IL17F
+        - IL18
+        - IL19
+        - IL20
+        - IL21
+        - IL22
+        - IL23A
+        - IL24
+        - IL25
+        - IL26
+        - IL27
+        - IL31
+        - IL32
+        - IL33
+        - IL34
+        - IL36A
+        - IL36B
+        - IL36G
+        - IL37
+        - TXLNA # IL14
+        - LIF
+        - OSM
+        - CNTF
+        - CTF1
 
     interferons:
-    - IFNA1
-    - IFNA2
-    - IFNB1
-    - IFNG
+        - IFNG # first identified lymphocyte-derived mediator 1965
+        - IFNA1 #   IFL|IFN|IFN-ALPHA|IFN-alphaD|IFNA13|IFNA@   interferon, alpha 1 protein-coding  IFNA1   interferon, alpha 1 I
+        - IFNA2 #   IFN-alphaA|IFNA|IFNA2B|INFA2    interferon, alpha 2 protein-coding  IFNA2   interferon, alpha 2 IFN-alpha-2|al
+        - IFNA10 #  IFN-alphaC  interferon, alpha 10    protein-coding  IFNA10  interferon, alpha 10    IFN-alpha-10|interferon alph
+        - IFNA11P # IFNP11  interferon, alpha 11, pseudogene    pseudo  IFNA11P interferon, alpha 11, pseudogene    -
+        - IFNA12P # IFNP12|IFNWP12  interferon, alpha 12, pseudogene    pseudo  IFNA12P interferon, alpha 12, pseudogene    -
+        - IFNA13 #  -   interferon, alpha 13    protein-coding  IFNA13  interferon, alpha 13    IFN-alpha-1/13|interferon alpha-1/13|
+        - IFNA14 #  IFN-alphaH|LEIF2H   interferon, alpha 14    protein-coding  IFNA14  interferon, alpha 14    IFN-alpha-14|interfer
+        - IFNA16 #  IFN-alphaO  interferon, alpha 16    protein-coding  IFNA16  interferon, alpha 16    IFN-alpha-16|IFN-alpha-N-pro
+        - IFNA17 #  IFN-alphaI|IFNA|INFA|LEIF2C1    interferon, alpha 17    protein-coding  IFNA17  interferon, alpha 17    IFN-alpha-
+        - IFNA20P # IFNP20  interferon, alpha 20, pseudogene    pseudo  IFNA20P interferon, alpha 20, pseudogene    -
+        - IFNA21 #  IFN-alphaI|LeIF F|leIF-F    interferon, alpha 21    protein-coding  IFNA21  interferon, alpha 21    IFN-alpha-21|i
+        - IFNA22P # IFNAP22 interferon, alpha 22, pseudogene    pseudo  IFNA22P interferon, alpha 22, pseudogene    -
+        - IFNA4 #   IFN-alpha4a|INFA4   interferon, alpha 4 protein-coding  IFNA4   interferon, alpha 4 IFN-alpha-4|interferon al
+        - IFNA5 #   IFN-alpha-5|IFN-alphaG|INA5|INFA5|leIF G    interferon, alpha 5 protein-coding  IFNA5   interferon, alpha 5 in
+        - IFNA6 #   IFN-alphaK  interferon, alpha 6 protein-coding  IFNA6   interferon, alpha 6 IFN-alpha-6|interferon alpha-54|
+        - IFNA7 #   IFN-alphaJ|IFNA-J   interferon, alpha 7 protein-coding  IFNA7   interferon, alpha 7 IFN-alpha 7|IFN-alpha-7|I
+        - IFNA8 #   IFN-alphaB  interferon, alpha 8 protein-coding  IFNA8   interferon, alpha 8 IFN-alpha-8|interferon alpha typ
+        - IFNB1 #   IFB|IFF|IFNB    interferon, beta 1, fibroblast  protein-coding  IFNB1   interferon, beta 1, fibroblast  IFN-beta
+        - IFNE #    IFN-E|IFNE1|IFNT1|INFE1|PRO655  interferon, epsilon protein-coding  IFNE    interferon, epsilon IFN-epsilon|in
+        - IFNK #    IFNT1|INFE1 interferon, kappa   protein-coding  IFNK    interferon, kappa   IFN-kappa|interferon kappa|interferon
+        - IFNL1 #   IL-29|IL29  interferon, lambda 1    protein-coding  IFNL1   interferon, lambda 1    IFN-lambda-1|cytokine Zcyto21|
+        - IFNL2 #   IL-28A|IL28A    interferon, lambda 2    protein-coding  IFNL2   interferon, lambda 2    IFN-lambda-2|cytokine Zcyto2
+        - IFNL3 #   IL-28B|IL28B|IL28C  interferon, lambda 3    protein-coding  IFNL3   interferon, lambda 3    IFN-lambda-3|IFN-lambd
+        - IFNL3P1 # IL28BP1 interferon, lambda 3 pseudogene 1   pseudo  IFNL3P1 interferon, lambda 3 pseudogene 1   -
+        - IFNL4 #   IFNAN   interferon, lambda 4 (gene/pseudogene)  protein-coding  IFNL4   interferon, lambda 4 (gene/pseudogene)
+        - IFNL4P1 # -   interferon, lambda 4 pseudogene 1   pseudo  IFNL4P1 interferon, lambda 4 pseudogene 1   -
+        - IFNNP1 #  -   interferon, nu 1, pseudogene    pseudo  IFNNP1  interferon, nu 1, pseudogene    -
+        - IFNW1 #   -   interferon, omega 1 protein-coding  IFNW1   interferon, omega 1 IFN-omega 1, interferon omega-1|interfero
+        - IFNWP15 # -   interferon, omega 1 pseudogene 15   pseudo  IFNWP15 interferon, omega 1 pseudogene 15   -
+        - IFNWP18 # LEIF-M  interferon, omega 1 pseudogene 18   pseudo  IFNWP18 interferon, omega 1 pseudogene 18   -
+        - IFNWP19 # -   interferon, omega 1 pseudogene 19   pseudo  IFNWP19 interferon, omega 1 pseudogene 19   -
+        - IFNWP2 #  -   interferon, omega 1 pseudogene 2    pseudo  IFNWP2  interferon, omega 1 pseudogene 2    -
+        - IFNWP5 #  -   interferon, omega 1 pseudogene 5    pseudo  IFNWP5  interferon, omega 1 pseudogene 5    -
+        - IFNWP9 #  -   interferon, omega 1 pseudogene 9    pseudo  IFNWP9  interferon, omega 1 pseudogene 9    -
 
     TNFs:
-    - TNF
-    - CD40LG
-    - CD70
-    - EDA
-    - FASLG
-    - LTA # TNFB
-    - LTB
-    - TNFRSF11B
-    - TNFSF4
-    - TNFSF8
-    - TNFSF9
-    - TNFSF10
-    - TNFSF11
-    - TNFSF12
-    - TNFSF13
-    - TNFSF13B
-    - TNFSF14
+        - TNF
+        - CD40LG
+        - CD70
+        - EDA
+        - FASLG
+        - LTA # lymphotoxin, TNFB
+        - LTB
+        - TNFRSF11B
+        - TNFSF4
+        - TNFSF8
+        - TNFSF9
+        - TNFSF10
+        - TNFSF11
+        - TNFSF12
+        - TNFSF13
+        - TNFSF13B
+        - TNFSF14
 
-    "Hematopoietic growth factors":
+
+"growth factors categorized as cytokines":
     - CSF1 # M-CSF
     - CSF2 # GM-CSF
     - CSF3 # G-CSF
     - KITLG # SCF
-
+    - HGF
 
 "cytokine receptors":
     "Interleukin receptors":
@@ -150,18 +231,15 @@ cytokines:
         - IL1RL1
         - IL1RL2
         - IL1RN
-        - IL2RA
-        - IL2RA 
+        - IL2RA # CD25
         - IL2RB
-        - IL2RB 
         - IL2RG
         - IL3RA 
         - IL4R 
         - IL5RA 
         - IL6R 
-        - IL6ST
         - IL6RP1
-        - IL7R
+        - IL7R # CD127
         - IL9R
         - IL9RP1
         - IL9RP2
@@ -169,7 +247,6 @@ cytokines:
         - IL9RP4
         - IL10RA
         - IL10RB
-        - IL10RB-AS1
         - IL11RA
         - IL11RB
         - IL12RB1
@@ -187,9 +264,7 @@ cytokines:
         - IL18RAP
         - IL20RA
         - IL20RB
-        - IL20RB-AS1
         - IL21R
-        - IL21R-AS1
         - IL22RA1
         - IL22RA2
         - IL23R
@@ -238,6 +313,14 @@ cytokines:
         - IFNAR2 
         - IFNGR1 
         - IFNGR2 
+        - IFNLR1  # CRF2/12|IFNLR|IL-28R1|IL28RA|LICR2  interferon, lambda receptor 1   protein-coding  IFNLR1  interferon, lamb
+
+    "TGF cytokine receptors":
+        - TGFBR1 #   AAT5|ACVRLK4|ALK-5|ALK5|ESS1|LDS1|LDS1A|LDS2A|MSSE|SKR4|TGFR-1  transforming growth factor, beta recepto
+        - TGFBR2 #   AAT3|FAA3|LDS1B|LDS2|LDS2B|MFS2|RIIC|TAAD2|TGFR-2|TGFbeta-RII   transforming growth factor, beta receptor
+        - TGFBR3 #   BGCAN|betaglycan    transforming growth factor, beta receptor III   protein-coding  TGFBR3  transforming growt
+        - TGFBR3L #  TGFR-3L transforming growth factor, beta receptor III-like  protein-coding  TGFBR3L transforming growth
+        - TGFBRAP1 #     TRAP-1|TRAP1    transforming growth factor, beta receptor associated protein 1  protein-coding  TGFBRAP1
 
     "Other receptors":
         - ILDR1
@@ -245,32 +328,53 @@ cytokines:
         - KIT 
         - LIFR 
         - OSMR # oncostatin M receptor, binds il6
+        - CNTFR 
         - TGFBR1 
         - TGFBR2 
-        - CNTFR 
         - EPOR # EPO receptor
         - GHR # GH1 receptor growth hormone
         - MPL # Thrombopoietin receptor THPO
         - PRLR # prolactin receptor
 
+"non-immunological cytokines":
+    - EPO
+    - THPO
+
+"TGF cytokines":
+    - TGFA #     TFGA    transforming growth factor, alpha   protein-coding  TGFA    transforming growth factor, alpha   TGF-alpha|pr
+    - TGFA-IT1 #    -   TGFA intronic transcript 1 (non-protein coding) ncRNA   TGFA-IT1    TGFA intronic transcript 1 (non-prot
+    - TGFB1 #    CED|DPD1|LAP|TGFB|TGFbeta   transforming growth factor, beta 1  protein-coding  TGFB1   transforming growth fa
+    - TGFB2 #    LDS4|TGF-beta2  transforming growth factor, beta 2  protein-coding  TGFB2   transforming growth factor, beta
+    - TGFB2-AS1 #   -   TGFB2 antisense RNA 1 (head to head)    ncRNA   TGFB2-AS1   TGFB2 antisense RNA 1 (head to head)    -
+    - TGFB2-OT1 #   -   TGFB2 overlapping transcript 1  ncRNA   TGFB2-OT1   TGFB2 overlapping transcript 1  -
+    - TGFB3 #    ARVD|ARVD1|RNHF|TGF-beta3   transforming growth factor, beta 3  protein-coding  TGFB3   transforming growth fa
+    - TGFBI #    BIGH3|CDB1|CDG2|CDGG1|CSD|CSD1|CSD2|CSD3|EBMD|LCD1  transforming growth factor, beta-induced, 68kDa prote
+    - TGFB1I1 #  ARA55|HIC-5|HIC5|TSC-5  transforming growth factor beta 1 induced transcript 1  protein-coding  TGFB1I1 t
+    
+
 proinflammatory:
     - CCL2
     - CCL3
     - CCL4
-    - CXCL10
+    - CXCL8 # il8
     - CXCL9
+    - CXCL10
     - IFNA1
     - IFNA2
     - IFNG
+    - IL1A
+    - IL1B
+    - IL5
+    - IL6
     - IL12A
     - IL15 # hypothesis: IL-15 induces the highly inflammatory Th1 response that activates T-helper cells
     - IL16
-    - IL1B
-    - IL1RN
-    - IL5
-    - IL6
-    - CXCL8
     - TNF
+    - MIF # one of the first identified cytokines 1966
+
+# a lot of proinflammatory are also anti (ex: IL6 as a myokine)
+antiinflammatory:
+    - IL1RN
 
 "suppressor of cytokine signaling":
     - SOCS1 #   CIS1|CISH1|JAB|SOCS-1|SSI-1|SSI1|TIP3   suppressor of cytokine signaling 1  protein-coding  SOCS1   suppressor
@@ -288,3 +392,86 @@ proinflammatory:
     - SOCS6 #   CIS-4|CIS4|HSPC060|SOCS-4|SOCS-6|SOCS4|SSI4|STAI4|STATI4    suppressor of cytokine signaling 6  protein-codi
     - SOCS7 #   NAP4|NCKAP4 suppressor of cytokine signaling 7  protein-coding  SOCS7   suppressor of cytokine signaling 7  N
     - CISH # BACTS2|CIS|CIS-1|G18|SOCS   cytokine inducible SH2-containing protein   protein-coding  CISH    cytokine inducibl
+
+"Biorad 21-plex assay":
+    - CCL27
+    - CCL7
+    - CSF1
+    - CXCL1
+    - CXCL9
+    - CXCL12
+    - HGF
+    - IFNA2
+    - IL1A
+    - IL2RA # CD25
+    - IL3
+    - IL12B
+    - IL16
+    - IL18
+    - KITLG
+    - LIF
+    - LTA
+    - TNFSF10
+    # ICAM1 # not a cytokine
+    # NGF # not a cytokine
+    # CLEC11A # not a cytokine (SCGF)
+    # VCAM1 # not a cytokine
+
+# http://www.bio-rad.com/en-us/sku/m50-0kcaf0y-bio-plex-pro-human-cytokine-27-plex-assay
+"Biorad 27-plex assay":
+    - CCL2 # MCP-1
+    - CCL3 # MIP-1α
+    - CCL4 # MIP-1β
+    - CCL5 # RANTES
+    - CCL11 # eotaxin
+    - CSF1 # M-CSF
+    - CSF2 # GM-CSF
+    - CXCL10 # IP-10
+    - IFNG
+    - IL1B
+    - IL1RN # IL1RA
+    - IL2
+    - IL4
+    - IL5
+    - IL6
+    - IL7
+    - CXCL8 # IL8
+    - IL9
+    - IL10
+    - IL13
+    - IL15
+    - IL17A # IL17
+    - IL17B # IL17
+    - TNF # TNF-α
+    # PDGFB # PDGF-BB - cytokine? ambiguous?
+    # FGF2 # not a cytokine (FGF basic)
+    # IL12 (p70) - ambiguous
+    # VEG - ambiguous?
+
+# http://www.emdmillipore.com/US/en/product/MILLIPLEX-MAP-Non-Human-Primate-Cytokine-Magnetic-Bead-Panel---Immunology-Multiplex-Assay,MM_NF-PRCYTOMAG-40K#
+"Millipore kit":
+    - CSF1 # G-CSF
+    - CSF2 # GM-CSF
+    - IFNG # IFN-γ
+    - IL1RN # IL-1ra
+    - IL1B # IL-1β
+    - IL2 # IL-2
+    - IL4 # IL-4
+    - IL5 # IL-5
+    - IL6 # IL-6
+    - CXCL8 # IL-8
+    - IL10 # IL-10
+    - IL12B # IL-12/23 (p40) 
+    - IL13 # IL-13
+    - IL15 # IL-15
+    - IL17A # IL-17
+    - IL17B # IL-17
+    - IL18 # IL-18
+    - CCL2 # MCP-1
+    - CCL3 # MIP-1α
+    - CCL4 # MIP-1β
+    - CD40LG # sCD40L
+    - TNF # TNF-α
+    # TGFA # TGF-α - not a cytokine
+    # VEGFA # VEGF - not a cytokine
+

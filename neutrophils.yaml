@@ -1,0 +1,135 @@
+
+# sources:
+# Almansa2014
+# Almansa2012
+
+in_granules:
+    
+    # primary granules
+    azurophilic_granules:
+        - AZU1 #    AZAMP|AZU|CAP37|HBP|HUMAZUR|NAZC    azurocidin 1    protein-coding  AZU1    azurocidin 1    azurocidin|cationic antimi
+        - DEFA1 #   DEF1|DEFA2|HNP-1|HP-1|HP1|MRS   defensin, alpha 1   protein-coding  DEFA1   defensin, alpha 1   defensin, alpha 1
+        - DEFA3 #   DEF3|HNP-3|HNP3|HP-3|HP3    defensin, alpha 3, neutrophil-specific  protein-coding  DEFA3   defensin, alpha 3,
+        - DEFA10P # -   defensin, alpha 10 pseudogene   pseudo  DEFA10P defensin, alpha 10 pseudogene   -
+        - DEFA11P # DEFAP3  defensin, alpha 11 pseudogene   pseudo  DEFA11P defensin, alpha 11 pseudogene   -
+        - DEFA1A3 # DEFA1|DEFA3|DEFT1P  defensin, alpha 1 and alpha 3, variable copy number locus   other   DEFA1A3 defensin, a
+        - DEFA1B #  HNP-1|HP-1|HP1  defensin, alpha 1B  protein-coding  DEFA1B  defensin, alpha 1B  neutrophil defensin 1
+        - DEFA4 #   DEF4|HNP-4|HP-4|HP4 defensin, alpha 4, corticostatin    protein-coding  DEFA4   defensin, alpha 4, corticostat
+        - DEFA5 #   DEF5|HD-5   defensin, alpha 5, Paneth cell-specific protein-coding  DEFA5   defensin, alpha 5, Paneth cell-sp
+        - DEFA6 #   DEF6|HD-6   defensin, alpha 6, Paneth cell-specific protein-coding  DEFA6   defensin, alpha 6, Paneth cell-sp
+        - DEFA7P #  DEFA7   defensin, alpha 7 pseudogene    pseudo  DEFA7P  defensin, alpha 7 pseudogene    -
+        - DEFA8P #  DEFAP1  defensin, alpha 8 pseudogene    pseudo  DEFA8P  defensin, alpha 8 pseudogene    -
+        - DEFA9P #  DEFAP2  defensin, alpha 9 pseudogene    pseudo  DEFA9P  defensin, alpha 9 pseudogene    -
+        - DEFB1 #   BD1|DEFB-1|DEFB101|HBD1 defensin, beta 1    protein-coding  DEFB1   defensin, beta 1    BD-1|beta-defensin 1|beta
+        - DEFB103A #    BD-3|DEFB-3|DEFB103|DEFB3|HBD3|HBP-3|HBP3|hBD-3 defensin, beta 103A protein-coding  DEFB103A    defensin,
+        - DEFB103B #    BD-3|DEFB-3|DEFB103|DEFB3|HBD-3|HBD3|HBP-3|HBP3 defensin, beta 103B protein-coding  DEFB103B    defensin,
+        - DEFB104A #    BD-4|DEFB-4|DEFB104|DEFB4|hBD-4 defensin, beta 104A protein-coding  DEFB104A    defensin, beta 104A beta-
+        - DEFB104B #    BD-4|DEFB-4|hBD-4   defensin, beta 104B protein-coding  DEFB104B    defensin, beta 104B beta-defensin 104|b
+        - DEFB105A #    BD-5|DEFB-5|DEFB105 defensin, beta 105A protein-coding  DEFB105A    defensin, beta 105A beta defensin 5|b
+        - DEFB105B #    BD-5|DEFB-5 defensin, beta 105B protein-coding  DEFB105B    defensin, beta 105B beta-defensin 105|beta-de
+        - DEFB106A #    BD-6|DEFB-6|DEFB106 defensin, beta 106A protein-coding  DEFB106A    defensin, beta 106A beta-defensin 106
+        - DEFB106B #    BD-6|DEFB-6 defensin, beta 106B protein-coding  DEFB106B    defensin, beta 106B beta-defensin 106|beta-de
+        - DEFB107A #    BD-7|DEFB-7|DEFB107 defensin, beta 107A protein-coding  DEFB107A    defensin, beta 107A beta-defensin 107
+        - DEFB107B #    HsT21816    defensin, beta 107B protein-coding  DEFB107B    defensin, beta 107B beta-defensin 107|beta-defen
+        - DEFB108B #    -   defensin, beta 108B protein-coding  DEFB108B    defensin, beta 108B BD-8|DEFB-8|beta-defensin 108B|beta
+        - DEFB108P1 #   DEFB-8|DEFB108|DEFB108A defensin, beta 108, pseudogene 1    pseudo  DEFB108P1   defensin, beta 108, pseudo
+        - DEFB108P2 #   -   defensin, beta 108, pseudogene 2    pseudo  DEFB108P2   defensin, beta 108, pseudogene 2    -
+        - DEFB108P3 #   -   defensin, beta 108, pseudogene 3    pseudo  DEFB108P3   defensin, beta 108, pseudogene 3    -
+        - DEFB108P4 #   -   defensin, beta 108, pseudogene 4    pseudo  DEFB108P4   defensin, beta 108, pseudogene 4    -
+        - DEFB109 # -   defensin, beta 109  protein-coding  -   -   beta-defensin 109
+        - DEFB109P1 #   DEFB-9|DEFB109|DEFB109A defensin, beta 109, pseudogene 1    pseudo  DEFB109P1   defensin, beta 109, pseudo
+        - DEFB109P1B #  DEF109P1B|DEFB109   defensin, beta 109, pseudogene 1B   pseudo  DEFB109P1B  defensin, beta 109, pseudogen
+        - DEFB109P2 #   -   defensin, beta 109, pseudogene 2    pseudo  DEFB109P2   defensin, beta 109, pseudogene 2    -
+        - DEFB109P3 #   -   defensin, beta 109, pseudogene 3    pseudo  DEFB109P3   defensin, beta 109, pseudogene 3    -
+        - DEFB110 # DEFB-10|DEFB-11|DEFB111 defensin, beta 110 locus    protein-coding  DEFB110 defensin, beta 110 locus    beta-
+        - DEFB112 # DEFB-12 defensin, beta 112  protein-coding  DEFB112 defensin, beta 112  beta-defensin 112|beta-defensin 1
+        - DEFB113 # DEFB-13 defensin, beta 113  protein-coding  DEFB113 defensin, beta 113  beta-defensin 113|beta-defensin 1
+        - DEFB114 # DEFB-14|DEFB14  defensin, beta 114  protein-coding  DEFB114 defensin, beta 114  beta-defensin 114|beta-def
+        - DEFB115 # DEFB-15 defensin, beta 115  protein-coding  DEFB115 defensin, beta 115  beta-defensin 115|beta-defensin 1
+        - DEFB116 # DEFB-16 defensin, beta 116  protein-coding  DEFB116 defensin, beta 116  beta-defensin 116|beta-defensin 1
+        - DEFB117 # DEFB-17 defensin, beta 117  pseudo  DEFB117 defensin, beta 117  -
+        - DEFB118 # C20orf63|DEFB-18|ESC42|ESP13.6  defensin, beta 118  protein-coding  DEFB118 defensin, beta 118  beta-defen
+        - DEFB119 # DEFB-19|DEFB-20|DEFB120|ESC42-RELA|ESC42-RELB   defensin, beta 119  protein-coding  DEFB119 defensin, beta
+        - DEFB121 # ESC42RELC   defensin, beta 121  protein-coding  DEFB121 defensin, beta 121  beta-defensin 121|beta-defensin
+        - DEFB122 # DEFB-22|DEFB122P    defensin, beta 122 (pseudogene) pseudo  DEFB122 defensin, beta 122 (pseudogene) -
+        - DEFB123 # DEFB-23|ESC42-RELD  defensin, beta 123  protein-coding  DEFB123 defensin, beta 123  beta defensin 23|beta-
+        - DEFB124 # DEFB-24 defensin, beta 124  protein-coding  DEFB124 defensin, beta 124  beta-defensin 124|beta-defensin 2
+        - DEFB125 # DEFB-25 defensin, beta 125  protein-coding  DEFB125 defensin, beta 125  beta defensin 25|beta-defensin 12
+        - DEFB126 # C20orf8|DEFB-26|DEFB26|bA530N10.1|hBD-26    defensin, beta 126  protein-coding  DEFB126 defensin, beta 126
+        - DEFB127 # C20orf73|DEF-27|DEFB-27|DEFB27|bA530N10.2|hBD-27    defensin, beta 127  protein-coding  DEFB127 defensin, b
+        - DEFB128 # DEFB-28|DEFB28|hBD-28   defensin, beta 128  protein-coding  DEFB128 defensin, beta 128  beta-defensin 128|b
+        - DEFB129 # C20orf87|DEFB-29|DEFB29|bA530N10.3|hBD-29   defensin, beta 129  protein-coding  DEFB129 defensin, beta 129
+        - DEFB130 # DEFB-30|DEFB130L    defensin, beta 130  protein-coding  DEFB130 defensin, beta 130  beta-defensin 130|beta-d
+        - DEFB131 # DEFB-31 defensin, beta 131  protein-coding  DEFB131 defensin, beta 131  beta-defensin 131|beta-defensin 3
+        - DEFB132 # DEFB32|UNQ827   defensin, beta 132  protein-coding  DEFB132 defensin, beta 132  BD-32|DEFB-32|KFLL827|RP5-1
+        - DEFB133 # -   defensin, beta 133  protein-coding  DEFB133 defensin, beta 133  beta-defensin 133
+        - DEFB134 # -   defensin, beta 134  protein-coding  DEFB134 defensin, beta 134  beta-defensin 134|beta-defensin 135
+        - DEFB135 # DEFB136 defensin, beta 135  protein-coding  DEFB135 defensin, beta 135  beta-defensin 135|beta-defensin 1
+        - DEFB136 # DEFB137 defensin, beta 136  protein-coding  DEFB136 defensin, beta 136  beta-defensin 136|beta-defensin 1
+        - DEFB4A #  BD-2|DEFB-2|DEFB102|DEFB2|DEFB4|HBD-2|SAP1  defensin, beta 4A   protein-coding  DEFB4A  defensin, beta 4A   be
+        - DEFB4B #  DEFB4P  defensin, beta 4B   protein-coding  DEFB4B  defensin, beta 4B   beta-defensin 4B|defensin, beta 4, pse
+        - DEFT1P #  DEFQ1|DEFT1 defensin, theta 1 pseudogene    pseudo  DEFT1P  defensin, theta 1 pseudogene    -
+        - DEFT1P2 # -   defensin, theta 1 pseudogene 2  pseudo  DEFT1P2 defensin, theta 1 pseudogene 2  -
+        - MPO # -   myeloperoxidase protein-coding  MPO myeloperoxidase -
+        - BPI # BPIFD1|rBPI bactericidal/permeability-increasing protein    protein-coding  BPI bactericidal/permeability-incr
+        - ELANE #   ELA2|GE|HLE|HNE|NE|PMN-E|SCN1   elastase, neutrophil expressed  protein-coding  ELANE   elastase, neutrophil e
+        - CTSG #    CATG|CG cathepsin G protein-coding  CTSG    cathepsin G -
+
+
+    # secondary
+    specific_granules:
+        - LTF # GIG12|HEL110|HLF2|LF    lactotransferrin    protein-coding  LTF lactotransferrin    epididymis luminal protein 110|g
+        - LYZ # lysozyme
+        - ALPI # IAP alkaline phosphatase, intestinal    protein-coding  ALPI    alkaline phosphatase, intestinal    Kasahara isozym
+        - ALPL # AP-TNAP|APTNAP|HOPS|TNAP|TNSALP alkaline phosphatase, liver/bone/kidney protein-coding  ALPL    alkaline phos
+        - ALPP # ALP|PALP|PLAP|PLAP-1    alkaline phosphatase, placental protein-coding  ALPP    alkaline phosphatase, placental
+        - NCF1 #    NCF1A|NOXO2|SH3PXD1A|p47phox    neutrophil cytosolic factor 1   protein-coding  NCF1    neutrophil cytosolic facto
+        - NCF2 #    NCF-2|NOXA2|P67-PHOX|P67PHOX    neutrophil cytosolic factor 2   protein-coding  NCF2    neutrophil cytosolic facto
+        - NCF4 #    NCF|P40PHOX|SH3PXD4 neutrophil cytosolic factor 4, 40kDa    protein-coding  NCF4    neutrophil cytosolic factor
+        - NOX1 #    GP91-2|MOX1|NOH-1|NOH1  NADPH oxidase 1 protein-coding  NOX1    NADPH oxidase 1 NADH/NADPH mitogenic oxidase s
+        - NOX3 #    GP91-3|MOX-2    NADPH oxidase 3 protein-coding  NOX3    NADPH oxidase 3 NADPH oxidase catalytic subunit-like 3|g
+        - NOX4 #    KOX|KOX-1|RENOX NADPH oxidase 4 protein-coding  NOX4    NADPH oxidase 4 kidney oxidase-1|kidney superoxide-pr
+        - NOX5 #    -   NADPH oxidase, EF-hand calcium binding domain 5 protein-coding  NOX5    NADPH oxidase, EF-hand calcium bind
+        - CAMP #  CAP-18|CAP18|CRAMP|FALL-39|FALL39|LL37  cathelicidin antimicrobial peptide  protein-coding  CAMP    cathelicidi
+        - MMP1 # CLG|CLGN    matrix metallopeptidase 1 (interstitial collagenase)    protein-coding  MMP1    matrix metallopeptidase
+        - MMP13 # CLG3|MANDP1|MMP-13  matrix metallopeptidase 13 (collagenase 3)  protein-coding  MMP13   matrix metallopeptida
+        - MMP2 # CLG4|CLG4A|MMP-2|MMP-II|MONA|TBE-1  matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type
+        - MMP8 # CLG1|HNC|MMP-8|PMNL-CL  matrix metallopeptidase 8 (neutrophil collagenase)  protein-coding  MMP8    matrix meta
+        - TCN1 #  HC|TC-1|TC1|TCI transcobalamin I (vitamin B12 binding protein, R binder family) protein-coding  TCN1    trans
+
+    other_granules:
+    - MMP9 # CLG4B|GELB|MANDP2|MMP-9 matrix metallopeptidase 9 (gelatinase B, 92kDa gelatinase, 92kDa type IV collagen
+    - SERPINB1 # EI|ELANH2|HEL57|LEI|M/NEI|MNEI|PI-2|PI2 serpin peptidase inhibitor, clade B (ovalbumin), member 1   pro
+    
+
+serine_proteases:
+    - ELANE #   ELA2|GE|HLE|HNE|NE|PMN-E|SCN1   elastase, neutrophil expressed  protein-coding  ELANE   elastase, neutrophil e
+    - CTSG #    CATG|CG cathepsin G protein-coding  CTSG    cathepsin G -
+    - PRTN3 #   ACPA|AGP7|C-ANCA|CANCA|MBN|MBT|NP-4|NP4|P29|PR-3|PR3    proteinase 3    protein-coding  PRTN3   proteinase 3    C-AN
+
+neutrophil_activation:
+- CD177 # a cell surface glycoprotein that plays a role in neutrophil activation
+- OLFM4 # neutrophil subset marker
+- TREM1
+
+degranulation_inhibition:
+- ADORA3
+
+other_genes:
+- ITGB2 # CD18|LAD|LCAMB|LFA-1|MAC-1|MF17|MFI7    integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)
+- ITGAX
+- FPR1
+- FCGR1A
+- S100A12   # CAAF1|CAGC|CGRP|ENRAGE|MRP-6|MRP6|p6    S100 calcium binding protein A12    protein-coding  S100A12 S100 calc
+- STXBP2
+- KIF20B # CT90|KRMP1|MPHOSPH1|MPP-1|MPP1  kinesin family member 20B   protein-coding  KIF20B  kinesin family member 20
+- FCAR
+- MSRA
+- MSRB2
+- SIGLEC5
+- CEACAM1
+- CEACAM3 # unique marker of neutrophils
+- CEACAM4 # unique marker of neutrophils
+- CEACAM6 # unique marker of neutrophils
+- CEACAM8 # unique marker of neutrophils
+- FPR1

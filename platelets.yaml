@@ -1,0 +1,10 @@
+platelets:
+    - ITGA2B
+    - PPBP
+    - SELP
+    - PF4
+    - PF4V1
+    - GP9
+    - GP1BA # BDPLT1|BDPLT3|BSS|CD42B|CD42b-alpha|DBPLT3|GP1B|GPIbA|VWDP
+    - GP1BB # BDPLT1|BS|CD42C|GPIBB
+    
